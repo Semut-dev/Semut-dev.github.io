@@ -6,7 +6,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <link rel="icon" href="img/favicon2.png" type="image/png">
-        <title>Myrmidon - Tugas Besar</title>
+        <title>Kelompok 4 - Semut</title>
         <!-- Bootstrap CSS -->
         <link rel="stylesheet" href="../../css/bootstrap.css">
         <link rel="stylesheet" href="../../css/dataTable.min.css">
@@ -69,7 +69,7 @@
 							<div class="page_link">
 								<a href="../../index.html">Utama</a>
 								<a href="#">Proyek</a>
-								<a href="../scraping-python/index.html">Scraping Python</a>
+								<a href="../visualisasi-python-2/index.html">Visualisasi Data Scraping</a>
 							</div>
 						</div>
 					</div>
@@ -85,23 +85,39 @@
                     <div class="col-lg-12 posts-list">
                         <div class="single-post row">
                             <div class="col-lg-12 col-md-12 blog_details">
-                                <h2>Web Scraping dengan Python 1</h2>
-                                <p>Berikut merupakan data terkait dengan berita terbaru yang terdapat pada situs <b style="color:#766dff">republika.co.id</b></p>
-                                <div class="table-responsive table-hover tResp">
-                                    <table class="table cTable" id="dTable">
-                                        <thead>
-                                            <tr>
-                                                <th>No</th>
-                                                <th>Judul</th>
-                                                <th>Kategori</th>
-                                                <th>Waktu Publish</th>
-                                                <th>Waktu Scraping</th>
-                                            </tr>
-                                        </thead>
-                                        <tbody>
-                                        </tbody>
-                                    </table>
-                                </div>
+                                <h2>Visualisasi Data Scraping</h2>
+                                <p>Berikut merupakan data scraping yang dituangkan pada bentuk diagram</p>
+                                <!-- TODO -->
+                                    <div class="row">
+                                        <div class="col-lg-6 col-md-6 col-sm-12">
+                                            <p class="niceP">Banyaknya Jumlah Rating pada Buku</p>
+                                            <div>
+                                                <canvas id="totalRate" width="400" height="250">Browser anda tidak mendukung elemen canvas.</canvas>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-6 col-md-6 col-sm-12">
+                                            <p class="niceP">Skala Rating pada Buku</p>
+                                            <div>
+                                                <canvas id="rate" width="400" height="250">Browser anda tidak mendukung elemen canvas.</canvas>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div style="margin-top: 3%; margin-bottom: 3%;"></div>
+                                    <div class="row">
+                                        <div class="col-lg-6 col-md-6 col-sm-12">
+                                            <p class="niceP">Jumlah Inisial Penulis Terbanyak</p>
+                                            <div>
+                                                <canvas id="iPenulis" width="400" height="250">Browser anda tidak mendukung elemen canvas.</canvas>
+                                            </div>
+                                        </div>
+                                        <p>
+                                        <div class="col-lg-6 col-md-6 col-sm-12">
+                                            <p class="niceP">Jumlah Inisial Judul Buku Terbanyak</p>
+                                            <div>
+                                                <canvas id="iJudul" width="400" height="250">Browser anda tidak mendukung elemen canvas.</canvas>
+                                            </div>
+                                        </div>
+                                    </div>
                             </div>
                         </div>
                         <div class="navigation-area">
@@ -109,13 +125,13 @@
                                 <div class="col-lg-6 col-md-6 col-12 nav-left flex-row d-flex justify-content-start align-items-center">
                                     <div class="detials">
                                         <p>Sebelumnya</p>
-                                        <a href="../../about.html"><h4>Profil Kelompok</h4></a>
+                                        <a href="../scraping-python-2/index.html"><h4>Web Scraping dengan Python 2 </h4></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-6 col-md-6 col-12 nav-right flex-row d-flex justify-content-end align-items-center">
                                     <div class="detials">
                                         <p>Selanjutnya</p>
-                                        <a href="../scraping-python-2/index.html"><h4>Web Scraping dengan Python 2 </h4></a>
+                                        <a href="../../about.html"><h4>Profil Kelompok</h4></a>
                                     </div>
                                 </div>									
                             </div>
@@ -297,42 +313,6 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
         <!-- Optional JavaScript -->
         <!-- jQuery first, then Popper.js, then Bootstrap JS -->
         <script src="../../js/jquery-3.3.1.min.js"></script>
-        <script>
-            $(document).ready(function(){
-                var table = $('#dTable').DataTable({
-                    "ajax": {
-                        "url": "data.json",
-                        "dataSrc": "",
-                    },
-                    "ordering": false,
-                    "columns": [
-                        {"data": null},
-                        {
-                            "data": "judul_berita",
-                            "render": function(data, type, row) {
-                                return '<p class="cleanP">'+data+'</h4>';
-                            }
-                        },
-                        {"data": "kategori"},
-                        {"data": "waktu_publish"},
-                        {"data": "waktu_scraping"}
-                    ],
-                    "language": {
-                        "paginate": {
-                            "previous": "<i class='fa fa-chevron-left'></i>",
-                            "next": "<i class='fa fa-chevron-right'></i>"
-                        }
-                    }
-                });
-
-                table.on('order.dt search.dt', function () {
-                    table.column(0, { search: 'applied', order: 'applied' }).nodes().each(function (cell, i) {
-                        cell.innerHTML = "<center>" + (i + 1) + "</center>";
-                    });
-                }).draw();
-                
-            });
-        </script>
         <script src="../../js/jquery.dataTables.min.js"></script>
         <script src="../../js/popper.js"></script>
         <script src="../../js/bootstrap.min.js"></script>
@@ -348,5 +328,8 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
         <script src="../../vendors/counter-up/jquery.counterup.min.js"></script>
         <script src="../../js/mail-script.js"></script>
         <script src="../../js/theme.js"></script>
+        <script src="chart.js"></script> 
+        <script src="data.json"></script>
+        <script src="isiweb.js"></script>
     </body>
 </html>
