@@ -2,1503 +2,1603 @@
     "videos": [
         {
             "index": 1,
-            "duration": "4:18",
+            "duration": 258,
             "trending": {
                 "rank": 25,
                 "category": "MUSIC"
             },
             "title": "WayV-KUN&XIAOJUN '\u8fd9\u65f6\u70df\u706b (Back To You)' MV",
             "channel": "SMTOWN",
-            "likes": "445K",
-            "dislikes": "642",
-            "subscribers": "28M",
-            "views": "1,879,095",
-            "url": "https://www.youtube.com/watch?v=DYbWPPJbiKs"
+            "likes": 445000,
+            "dislikes": 642,
+            "subscribers": 28000000,
+            "views": 1879095,
+            "url": "https://www.youtube.com/watch?v=DYbWPPJbiKs",
+            "thumbnail": "https://i.ytimg.com/vi/DYbWPPJbiKs/hqdefault.jpg"
         },
         {
             "index": 2,
-            "duration": "3:42",
+            "duration": 222,
             "trending": {
                 "rank": 1,
                 "category": "MUSIC"
             },
             "title": "EXO \uc5d1\uc18c 'Don't fight the feeling' MV",
             "channel": "SMTOWN",
-            "likes": "4.1M",
-            "dislikes": "43K",
-            "subscribers": "28M",
-            "views": "64,226,913",
-            "url": "https://www.youtube.com/watch?v=2IkoKhr6Tss"
+            "likes": 4099999,
+            "dislikes": 43000,
+            "subscribers": 28000000,
+            "views": 64226913,
+            "url": "https://www.youtube.com/watch?v=2IkoKhr6Tss",
+            "thumbnail": "https://i.ytimg.com/vi/2IkoKhr6Tss/hqdefault.jpg"
         },
         {
             "index": 3,
-            "duration": "3:20",
+            "duration": 200,
             "trending": {
                 "rank": 27,
                 "category": "MUSIC"
             },
             "title": "NCT 127 X Amoeba Culture 'Save' MV",
             "channel": "NCT 127",
-            "likes": "1M",
-            "dislikes": "5.9K",
-            "subscribers": "3.41M",
-            "views": "10,003,130",
-            "url": "https://www.youtube.com/watch?v=O8Xq4xfH2ro"
+            "likes": 1000000,
+            "dislikes": 5900,
+            "subscribers": 3410000,
+            "views": 10003130,
+            "url": "https://www.youtube.com/watch?v=O8Xq4xfH2ro",
+            "thumbnail": "https://i.ytimg.com/vi/O8Xq4xfH2ro/hqdefault.jpg"
         },
         {
             "index": 4,
-            "duration": "4:34",
+            "duration": 274,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "JOY \uc870\uc774 '\uc548\ub155 (Hello)' MV",
             "channel": "SMTOWN",
-            "likes": "1.1M",
-            "dislikes": "8.8K",
-            "subscribers": "28M",
-            "views": "11,441,741",
-            "url": "https://www.youtube.com/watch?v=lNvBbh5jDcA"
+            "likes": 1100000,
+            "dislikes": 8800,
+            "subscribers": 28000000,
+            "views": 11441741,
+            "url": "https://www.youtube.com/watch?v=lNvBbh5jDcA",
+            "thumbnail": "https://i.ytimg.com/vi/lNvBbh5jDcA/hqdefault.jpg"
         },
         {
             "index": 5,
-            "duration": "3:24",
+            "duration": 204,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "TAEMIN \ud0dc\ubbfc 'Advice' MV",
             "channel": "SMTOWN",
-            "likes": "924K",
-            "dislikes": "5.1K",
-            "subscribers": "28M",
-            "views": "20,918,533",
-            "url": "https://www.youtube.com/watch?v=sQg4VCB3bYw"
+            "likes": 924000,
+            "dislikes": 5100,
+            "subscribers": 28000000,
+            "views": 20918533,
+            "url": "https://www.youtube.com/watch?v=sQg4VCB3bYw",
+            "thumbnail": "https://i.ytimg.com/vi/sQg4VCB3bYw/hqdefault.jpg"
         },
         {
             "index": 6,
-            "duration": "3:55",
+            "duration": 235,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "aespa \uc5d0\uc2a4\ud30c 'Next Level' MV",
             "channel": "SMTOWN",
-            "likes": "2.1M",
-            "dislikes": "82K",
-            "subscribers": "28M",
-            "views": "102,707,933",
-            "url": "https://www.youtube.com/watch?v=4TWR90KJl84"
+            "likes": 2100000,
+            "dislikes": 82000,
+            "subscribers": 28000000,
+            "views": 102707933,
+            "url": "https://www.youtube.com/watch?v=4TWR90KJl84",
+            "thumbnail": "https://i.ytimg.com/vi/4TWR90KJl84/hqdefault.jpg"
         },
         {
             "index": 7,
-            "duration": "3:31",
+            "duration": 211,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "NCT DREAM \uc5d4\uc2dc\ud2f0 \ub4dc\ub9bc '\ub9db (Hot Sauce)' MV",
             "channel": "SMTOWN",
-            "likes": "3M",
-            "dislikes": "46K",
-            "subscribers": "28M",
-            "views": "107,703,626",
-            "url": "https://www.youtube.com/watch?v=PkKnp4SdE-w"
+            "likes": 3000000,
+            "dislikes": 46000,
+            "subscribers": 28000000,
+            "views": 107703626,
+            "url": "https://www.youtube.com/watch?v=PkKnp4SdE-w",
+            "thumbnail": "https://i.ytimg.com/vi/PkKnp4SdE-w/hqdefault.jpg"
         },
         {
             "index": 8,
-            "duration": "3:49",
+            "duration": 229,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "YESUNG \uc608\uc131 'Beautiful Night' MV",
             "channel": "SMTOWN",
-            "likes": "96K",
-            "dislikes": "418",
-            "subscribers": "28M",
-            "views": "1,197,785",
-            "url": "https://www.youtube.com/watch?v=lzTAdIAneKA"
+            "likes": 96000,
+            "dislikes": 418,
+            "subscribers": 28000000,
+            "views": 1197785,
+            "url": "https://www.youtube.com/watch?v=lzTAdIAneKA",
+            "thumbnail": "https://i.ytimg.com/vi/lzTAdIAneKA/hqdefault.jpg"
         },
         {
             "index": 9,
-            "duration": "3:53",
+            "duration": 233,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "YESUNG \uc608\uc131 'Phantom Pain' MV",
             "channel": "SMTOWN",
-            "likes": "92K",
-            "dislikes": "309",
-            "subscribers": "28M",
-            "views": "1,082,605",
-            "url": "https://www.youtube.com/watch?v=6cJN-4n5CpI"
+            "likes": 92000,
+            "dislikes": 309,
+            "subscribers": 28000000,
+            "views": 1082605,
+            "url": "https://www.youtube.com/watch?v=6cJN-4n5CpI",
+            "thumbnail": "https://i.ytimg.com/vi/6cJN-4n5CpI/hqdefault.jpg"
         },
         {
             "index": 10,
-            "duration": "4:09",
+            "duration": 249,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "WENDY \uc6ec\ub514 'When This Rain Stops' Live Video",
             "channel": "Red Velvet",
-            "likes": "183K",
-            "dislikes": "473",
-            "subscribers": "4.12M",
-            "views": "2,594,027",
-            "url": "https://www.youtube.com/watch?v=tknKZe_TyqU"
+            "likes": 183000,
+            "dislikes": 473,
+            "subscribers": 4120000,
+            "views": 2594027,
+            "url": "https://www.youtube.com/watch?v=tknKZe_TyqU",
+            "thumbnail": "https://i.ytimg.com/vi/tknKZe_TyqU/hqdefault.jpg"
         },
         {
             "index": 11,
-            "duration": "3:06",
+            "duration": 186,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "SHINee \uc0e4\uc774\ub2c8 'Atlantis' MV",
             "channel": "SMTOWN",
-            "likes": "692K",
-            "dislikes": "3K",
-            "subscribers": "28M",
-            "views": "20,161,302",
-            "url": "https://www.youtube.com/watch?v=PSYRbJjIT6U"
+            "likes": 692000,
+            "dislikes": 3000,
+            "subscribers": 28000000,
+            "views": 20161302,
+            "url": "https://www.youtube.com/watch?v=PSYRbJjIT6U",
+            "thumbnail": "https://i.ytimg.com/vi/PSYRbJjIT6U/hqdefault.jpg"
         },
         {
             "index": 12,
-            "duration": "4:31",
+            "duration": 271,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "WENDY \uc6ec\ub514 'Like Water' MV",
             "channel": "SMTOWN",
-            "likes": "1M",
-            "dislikes": "10K",
-            "subscribers": "28M",
-            "views": "13,368,329",
-            "url": "https://www.youtube.com/watch?v=-Ih5UArd4zk"
+            "likes": 1000000,
+            "dislikes": 10000,
+            "subscribers": 28000000,
+            "views": 13368329,
+            "url": "https://www.youtube.com/watch?v=-Ih5UArd4zk",
+            "thumbnail": "https://i.ytimg.com/vi/-Ih5UArd4zk/hqdefault.jpg"
         },
         {
             "index": 13,
-            "duration": "2:34",
+            "duration": 154,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "[STATION] CHANYEOL \ucc2c\uc5f4 'Tomorrow' MV",
             "channel": "SM STATION",
-            "likes": "542K",
-            "dislikes": "2K",
-            "subscribers": "528K",
-            "views": "4,148,826",
-            "url": "https://www.youtube.com/watch?v=FgEpPwzt89Y"
+            "likes": 542000,
+            "dislikes": 2000,
+            "subscribers": 528000,
+            "views": 4148826,
+            "url": "https://www.youtube.com/watch?v=FgEpPwzt89Y",
+            "thumbnail": "https://i.ytimg.com/vi/FgEpPwzt89Y/hqdefault.jpg"
         },
         {
             "index": 14,
-            "duration": "4:07",
+            "duration": 247,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "SUPER JUNIOR \uc288\ud37c\uc8fc\ub2c8\uc5b4 'House Party' MV",
             "channel": "SMTOWN",
-            "likes": "891K",
-            "dislikes": "18K",
-            "subscribers": "28M",
-            "views": "23,837,484",
-            "url": "https://www.youtube.com/watch?v=BtJMOVKjhUo"
+            "likes": 891000,
+            "dislikes": 18000,
+            "subscribers": 28000000,
+            "views": 23837484,
+            "url": "https://www.youtube.com/watch?v=BtJMOVKjhUo",
+            "thumbnail": "https://i.ytimg.com/vi/BtJMOVKjhUo/hqdefault.jpg"
         },
         {
             "index": 15,
-            "duration": "3:57",
+            "duration": 237,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "WayV \u5a01\u795eV '\u79d8\u5883 (Kick Back)' MV",
             "channel": "SMTOWN",
-            "likes": "1.4M",
-            "dislikes": "6.8K",
-            "subscribers": "28M",
-            "views": "20,013,806",
-            "url": "https://www.youtube.com/watch?v=5h3sIRrQHJE"
+            "likes": 1400000,
+            "dislikes": 6800,
+            "subscribers": 28000000,
+            "views": 20013806,
+            "url": "https://www.youtube.com/watch?v=5h3sIRrQHJE",
+            "thumbnail": "https://i.ytimg.com/vi/5h3sIRrQHJE/hqdefault.jpg"
         },
         {
             "index": 16,
-            "duration": "4:09",
+            "duration": 249,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "SHINee \uc0e4\uc774\ub2c8 'Don't Call Me' MV",
             "channel": "SMTOWN",
-            "likes": "1.6M",
-            "dislikes": "19K",
-            "subscribers": "28M",
-            "views": "49,961,458",
-            "url": "https://www.youtube.com/watch?v=p6OoY6xneI0"
+            "likes": 1600000,
+            "dislikes": 19000,
+            "subscribers": 28000000,
+            "views": 49961458,
+            "url": "https://www.youtube.com/watch?v=p6OoY6xneI0",
+            "thumbnail": "https://i.ytimg.com/vi/p6OoY6xneI0/hqdefault.jpg"
         },
         {
             "index": 17,
-            "duration": "3:43",
+            "duration": 223,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "NCT 127 'gimme gimme' MV",
             "channel": "SMTOWN",
-            "likes": "1.7M",
-            "dislikes": "16K",
-            "subscribers": "28M",
-            "views": "31,746,101",
-            "url": "https://www.youtube.com/watch?v=6ZUPsl0EVuk"
+            "likes": 1700000,
+            "dislikes": 16000,
+            "subscribers": 28000000,
+            "views": 31746101,
+            "url": "https://www.youtube.com/watch?v=6ZUPsl0EVuk",
+            "thumbnail": "https://i.ytimg.com/vi/6ZUPsl0EVuk/hqdefault.jpg"
         },
         {
             "index": 18,
-            "duration": "5:10",
+            "duration": 310,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "KYUHYUN \uaddc\ud604 '\ub9c8\uc9c0\ub9c9 \ub0a0\uc5d0 (Moving On)' MV",
             "channel": "SMTOWN",
-            "likes": "116K",
-            "dislikes": "399",
-            "subscribers": "28M",
-            "views": "1,651,279",
-            "url": "https://www.youtube.com/watch?v=gXwVNwdOFhk"
+            "likes": 116000,
+            "dislikes": 399,
+            "subscribers": 28000000,
+            "views": 1651279,
+            "url": "https://www.youtube.com/watch?v=gXwVNwdOFhk",
+            "thumbnail": "https://i.ytimg.com/vi/gXwVNwdOFhk/hqdefault.jpg"
         },
         {
             "index": 19,
-            "duration": "3:05",
+            "duration": 185,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "U-KNOW \uc720\ub178\uc724\ud638 'Eeny Meeny' MV",
             "channel": "SMTOWN",
-            "likes": "302K",
-            "dislikes": "2K",
-            "subscribers": "28M",
-            "views": "9,078,217",
-            "url": "https://www.youtube.com/watch?v=2gvbKJYWaRA"
+            "likes": 302000,
+            "dislikes": 2000,
+            "subscribers": 28000000,
+            "views": 9078217,
+            "url": "https://www.youtube.com/watch?v=2gvbKJYWaRA",
+            "thumbnail": "https://i.ytimg.com/vi/2gvbKJYWaRA/hqdefault.jpg"
         },
         {
             "index": 20,
-            "duration": "7:38",
+            "duration": 458,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "U-KNOW \uc720\ub178\uc724\ud638 'Thank U' MV",
             "channel": "SMTOWN",
-            "likes": "223K",
-            "dislikes": "1.4K",
-            "subscribers": "28M",
-            "views": "2,626,820",
-            "url": "https://www.youtube.com/watch?v=ylUX9pfdBbs"
+            "likes": 223000,
+            "dislikes": 1400,
+            "subscribers": 28000000,
+            "views": 2626820,
+            "url": "https://www.youtube.com/watch?v=ylUX9pfdBbs",
+            "thumbnail": "https://i.ytimg.com/vi/ylUX9pfdBbs/hqdefault.jpg"
         },
         {
             "index": 21,
-            "duration": "3:35",
+            "duration": 215,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "[STATION] KANGTA \uac15\ud0c0 '\uac10\uae30\uc57d (Cough Syrup)' MV",
             "channel": "SM STATION",
-            "likes": "14K",
-            "dislikes": "162",
-            "subscribers": "528K",
-            "views": "153,624",
-            "url": "https://www.youtube.com/watch?v=ptWAKTbmAws"
+            "likes": 14000,
+            "dislikes": 162,
+            "subscribers": 528000,
+            "views": 153624,
+            "url": "https://www.youtube.com/watch?v=ptWAKTbmAws",
+            "thumbnail": "https://i.ytimg.com/vi/ptWAKTbmAws/hqdefault.jpg"
         },
         {
             "index": 22,
-            "duration": "4:17",
+            "duration": 257,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "BAEKHYUN \u30d9\u30af\u30d2\u30e7\u30f3 'Get You Alone' MV",
             "channel": "SMTOWN",
-            "likes": "751K",
-            "dislikes": "3K",
-            "subscribers": "28M",
-            "views": "7,842,243",
-            "url": "https://www.youtube.com/watch?v=uqcZUIUb7fk"
+            "likes": 751000,
+            "dislikes": 3000,
+            "subscribers": 28000000,
+            "views": 7842243,
+            "url": "https://www.youtube.com/watch?v=uqcZUIUb7fk",
+            "thumbnail": "https://i.ytimg.com/vi/uqcZUIUb7fk/hqdefault.jpg"
         },
         {
             "index": 23,
-            "duration": "6:36",
+            "duration": 396,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "SMTOWN '\ube5b (Hope)' Official Video @SMTOWN LIVE \"Culture Humanity\"",
             "channel": "SMTOWN",
-            "likes": "662K",
-            "dislikes": "4K",
-            "subscribers": "28M",
-            "views": "11,219,104",
-            "url": "https://www.youtube.com/watch?v=VlM68GOkEUg"
+            "likes": 662000,
+            "dislikes": 4000,
+            "subscribers": 28000000,
+            "views": 11219104,
+            "url": "https://www.youtube.com/watch?v=VlM68GOkEUg",
+            "thumbnail": "https://i.ytimg.com/vi/VlM68GOkEUg/hqdefault.jpg"
         },
         {
             "index": 24,
-            "duration": "3:01",
+            "duration": 181,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "TAEYEON \ud0dc\uc5f0 'What Do I Call You' MV",
             "channel": "SMTOWN",
-            "likes": "548K",
-            "dislikes": "4.1K",
-            "subscribers": "28M",
-            "views": "11,143,391",
-            "url": "https://www.youtube.com/watch?v=5LbFdY6vGsQ"
+            "likes": 548000,
+            "dislikes": 4100,
+            "subscribers": 28000000,
+            "views": 11143391,
+            "url": "https://www.youtube.com/watch?v=5LbFdY6vGsQ",
+            "thumbnail": "https://i.ytimg.com/vi/5LbFdY6vGsQ/hqdefault.jpg"
         },
         {
             "index": 25,
-            "duration": "5:35",
+            "duration": 335,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "NCT 2020 \uc5d4\uc2dc\ud2f0 2020 'RESONANCE' MV",
             "channel": "SMTOWN",
-            "likes": "2.5M",
-            "dislikes": "21K",
-            "subscribers": "28M",
-            "views": "89,935,308",
-            "url": "https://www.youtube.com/watch?v=0IpbvXVbBYA"
+            "likes": 2500000,
+            "dislikes": 21000,
+            "subscribers": 28000000,
+            "views": 89935308,
+            "url": "https://www.youtube.com/watch?v=0IpbvXVbBYA",
+            "thumbnail": "https://i.ytimg.com/vi/0IpbvXVbBYA/hqdefault.jpg"
         },
         {
             "index": 26,
-            "duration": "3:33",
+            "duration": 213,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "BoA \ubcf4\uc544 'Better' MV",
             "channel": "SMTOWN",
-            "likes": "323K",
-            "dislikes": "3.3K",
-            "subscribers": "28M",
-            "views": "4,875,625",
-            "url": "https://www.youtube.com/watch?v=fOxl2OIOVII"
+            "likes": 323000,
+            "dislikes": 3300,
+            "subscribers": 28000000,
+            "views": 4875625,
+            "url": "https://www.youtube.com/watch?v=fOxl2OIOVII",
+            "thumbnail": "https://i.ytimg.com/vi/fOxl2OIOVII/hqdefault.jpg"
         },
         {
             "index": 27,
-            "duration": "3:26",
+            "duration": 206,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "KAI \uce74\uc774 '\uc74c (Mmmh)' MV",
             "channel": "SMTOWN",
-            "likes": "3M",
-            "dislikes": "33K",
-            "subscribers": "28M",
-            "views": "85,622,024",
-            "url": "https://www.youtube.com/watch?v=Fc-fa6cAe2c"
+            "likes": 3000000,
+            "dislikes": 33000,
+            "subscribers": 28000000,
+            "views": 85622024,
+            "url": "https://www.youtube.com/watch?v=Fc-fa6cAe2c",
+            "thumbnail": "https://i.ytimg.com/vi/Fc-fa6cAe2c/hqdefault.jpg"
         },
         {
             "index": 28,
-            "duration": "3:07",
+            "duration": 187,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "NCT U \uc5d4\uc2dc\ud2f0 \uc720 'Work It' MV",
             "channel": "SMTOWN",
-            "likes": "1.4M",
-            "dislikes": "11K",
-            "subscribers": "28M",
-            "views": "47,731,096",
-            "url": "https://www.youtube.com/watch?v=Un7choIyl_g"
+            "likes": 1400000,
+            "dislikes": 11000,
+            "subscribers": 28000000,
+            "views": 47731096,
+            "url": "https://www.youtube.com/watch?v=Un7choIyl_g",
+            "thumbnail": "https://i.ytimg.com/vi/Un7choIyl_g/hqdefault.jpg"
         },
         {
             "index": 29,
-            "duration": "3:47",
+            "duration": 227,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "NCT U \uc5d4\uc2dc\ud2f0 \uc720 '90's Love' MV",
             "channel": "SMTOWN",
-            "likes": "2.2M",
-            "dislikes": "21K",
-            "subscribers": "28M",
-            "views": "98,028,460",
-            "url": "https://www.youtube.com/watch?v=A5H8zBb3iao"
+            "likes": 2200000,
+            "dislikes": 21000,
+            "subscribers": 28000000,
+            "views": 98028460,
+            "url": "https://www.youtube.com/watch?v=A5H8zBb3iao",
+            "thumbnail": "https://i.ytimg.com/vi/A5H8zBb3iao/hqdefault.jpg"
         },
         {
             "index": 30,
-            "duration": "3:27",
+            "duration": 207,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "TAEMIN \ud0dc\ubbfc '\uc548\uc544\uc904\ub798 (Think Of You)' MV",
             "channel": "SMTOWN",
-            "likes": "280K",
-            "dislikes": "586",
-            "subscribers": "28M",
-            "views": "2,835,170",
-            "url": "https://www.youtube.com/watch?v=It8pe0WFHhk"
+            "likes": 280000,
+            "dislikes": 586,
+            "subscribers": 28000000,
+            "views": 2835170,
+            "url": "https://www.youtube.com/watch?v=It8pe0WFHhk",
+            "thumbnail": "https://i.ytimg.com/vi/It8pe0WFHhk/hqdefault.jpg"
         },
         {
             "index": 31,
-            "duration": "3:49",
+            "duration": 229,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "aespa \uc5d0\uc2a4\ud30c 'Black Mamba' MV",
             "channel": "SMTOWN",
-            "likes": "3.1M",
-            "dislikes": "149K",
-            "subscribers": "28M",
-            "views": "157,048,616",
-            "url": "https://www.youtube.com/watch?v=ZeerrnuLi5E"
+            "likes": 3100000,
+            "dislikes": 149000,
+            "subscribers": 28000000,
+            "views": 157048616,
+            "url": "https://www.youtube.com/watch?v=ZeerrnuLi5E",
+            "thumbnail": "https://i.ytimg.com/vi/ZeerrnuLi5E/hqdefault.jpg"
         },
         {
             "index": 32,
-            "duration": "3:14",
+            "duration": 194,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "[STATION] MAX CHANGMIN \ucd5c\uac15\ucc3d\ubbfc 'All That Love' MV",
             "channel": "SM STATION",
-            "likes": "33K",
-            "dislikes": "314",
-            "subscribers": "528K",
-            "views": "534,562",
-            "url": "https://www.youtube.com/watch?v=LvNUCqHvjeI"
+            "likes": 33000,
+            "dislikes": 314,
+            "subscribers": 528000,
+            "views": 534562,
+            "url": "https://www.youtube.com/watch?v=LvNUCqHvjeI",
+            "thumbnail": "https://i.ytimg.com/vi/LvNUCqHvjeI/hqdefault.jpg"
         },
         {
             "index": 33,
-            "duration": "3:27",
+            "duration": 207,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "TAEMIN \ud0dc\ubbfc '\uc774\ub370\uc544 (IDEA:\u7406\u60f3)' MV",
             "channel": "SMTOWN",
-            "likes": "764K",
-            "dislikes": "5K",
-            "subscribers": "28M",
-            "views": "51,988,007",
-            "url": "https://www.youtube.com/watch?v=KUvOQlkLNhE"
+            "likes": 764000,
+            "dislikes": 5000,
+            "subscribers": 28000000,
+            "views": 51988007,
+            "url": "https://www.youtube.com/watch?v=KUvOQlkLNhE",
+            "thumbnail": "https://i.ytimg.com/vi/KUvOQlkLNhE/hqdefault.jpg"
         },
         {
             "index": 34,
-            "duration": "3:11",
+            "duration": 191,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "SUPER JUNIOR \uc288\ud37c\uc8fc\ub2c8\uc5b4 '\uc6b0\ub9ac\uc5d0\uac8c (The Melody)' MV",
             "channel": "SMTOWN",
-            "likes": "391K",
-            "dislikes": "1.4K",
-            "subscribers": "28M",
-            "views": "5,244,916",
-            "url": "https://www.youtube.com/watch?v=RZrqrinmdks"
+            "likes": 391000,
+            "dislikes": 1400,
+            "subscribers": 28000000,
+            "views": 5244916,
+            "url": "https://www.youtube.com/watch?v=RZrqrinmdks",
+            "thumbnail": "https://i.ytimg.com/vi/RZrqrinmdks/hqdefault.jpg"
         },
         {
             "index": 35,
-            "duration": "2:52",
+            "duration": 172,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "[STATION] Raiden X HYO 'Think About Me (Feat. Coogie)' MV",
             "channel": "SM STATION",
-            "likes": "23K",
-            "dislikes": "68",
-            "subscribers": "528K",
-            "views": "197,418",
-            "url": "https://www.youtube.com/watch?v=0Bar3VXF45U"
+            "likes": 23000,
+            "dislikes": 68,
+            "subscribers": 528000,
+            "views": 197418,
+            "url": "https://www.youtube.com/watch?v=0Bar3VXF45U",
+            "thumbnail": "https://i.ytimg.com/vi/0Bar3VXF45U/hqdefault.jpg"
         },
         {
             "index": 36,
-            "duration": "4:41",
+            "duration": 281,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "NCT U \uc5d4\uc2dc\ud2f0 \uc720 'From Home' MV",
             "channel": "SMTOWN",
-            "likes": "1.8M",
-            "dislikes": "16K",
-            "subscribers": "28M",
-            "views": "59,583,331",
-            "url": "https://www.youtube.com/watch?v=3p7s7Rjh4fg"
+            "likes": 1800000,
+            "dislikes": 16000,
+            "subscribers": 28000000,
+            "views": 59583331,
+            "url": "https://www.youtube.com/watch?v=3p7s7Rjh4fg",
+            "thumbnail": "https://i.ytimg.com/vi/3p7s7Rjh4fg/hqdefault.jpg"
         },
         {
             "index": 37,
-            "duration": "3:37",
+            "duration": 217,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "CHEN \uccb8 '\uc548\ub155 (Hello)' MV",
             "channel": "SMTOWN",
-            "likes": "1.3M",
-            "dislikes": "10K",
-            "subscribers": "28M",
-            "views": "10,488,920",
-            "url": "https://www.youtube.com/watch?v=qJf8Ef4pqQk"
+            "likes": 1300000,
+            "dislikes": 10000,
+            "subscribers": 28000000,
+            "views": 10488920,
+            "url": "https://www.youtube.com/watch?v=qJf8Ef4pqQk",
+            "thumbnail": "https://i.ytimg.com/vi/qJf8Ef4pqQk/hqdefault.jpg"
         },
         {
             "index": 38,
-            "duration": "4:08",
+            "duration": 248,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "NCT U \uc5d4\uc2dc\ud2f0 \uc720 'Make A Wish (Birthday Song)' MV",
             "channel": "SMTOWN",
-            "likes": "3.6M",
-            "dislikes": "64K",
-            "subscribers": "28M",
-            "views": "194,788,621",
-            "url": "https://www.youtube.com/watch?v=tyrVtwE8Gv0"
+            "likes": 3600000,
+            "dislikes": 64000,
+            "subscribers": 28000000,
+            "views": 194788621,
+            "url": "https://www.youtube.com/watch?v=tyrVtwE8Gv0",
+            "thumbnail": "https://i.ytimg.com/vi/tyrVtwE8Gv0/hqdefault.jpg"
         },
         {
             "index": 39,
-            "duration": "2:41",
+            "duration": 161,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "NCT U \uc5d4\uc2dc\ud2f0 \uc720 \u2018Misfit\u2019 Track Video",
             "channel": "NCT",
-            "likes": "1.2M",
-            "dislikes": "5.5K",
-            "subscribers": "3.84M",
-            "views": "36,192,739",
-            "url": "https://www.youtube.com/watch?v=0b-EatqUvb4"
+            "likes": 1200000,
+            "dislikes": 5500,
+            "subscribers": 3840000,
+            "views": 36192739,
+            "url": "https://www.youtube.com/watch?v=0b-EatqUvb4",
+            "thumbnail": "https://i.ytimg.com/vi/0b-EatqUvb4/hqdefault.jpg"
         },
         {
             "index": 40,
-            "duration": "1:44",
+            "duration": 104,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "NCT DREAM \uc5d4\uc2dc\ud2f0 \ub4dc\ub9bc '\ubb34\ub300\ub85c (D\u00e9j\u00e0 Vu;\u821e\u4ee3\u8def)' Track Video",
             "channel": "NCT",
-            "likes": "924K",
-            "dislikes": "2.8K",
-            "subscribers": "3.84M",
-            "views": "23,608,824",
-            "url": "https://www.youtube.com/watch?v=QyKe4VXDx5I"
+            "likes": 924000,
+            "dislikes": 2800,
+            "subscribers": 3840000,
+            "views": 23608824,
+            "url": "https://www.youtube.com/watch?v=QyKe4VXDx5I",
+            "thumbnail": "https://i.ytimg.com/vi/QyKe4VXDx5I/hqdefault.jpg"
         },
         {
             "index": 41,
-            "duration": "4:04",
+            "duration": 244,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "KYUHYUN \uaddc\ud604 '\ub0b4 \ub9c8\uc74c\uc744 \ub204\ub974\ub294 \uc77c (Daystar)' MV",
             "channel": "SMTOWN",
-            "likes": "101K",
-            "dislikes": "413",
-            "subscribers": "28M",
-            "views": "1,451,247",
-            "url": "https://www.youtube.com/watch?v=PS_K1Ypi8B0"
+            "likes": 101000,
+            "dislikes": 413,
+            "subscribers": 28000000,
+            "views": 1451247,
+            "url": "https://www.youtube.com/watch?v=PS_K1Ypi8B0",
+            "thumbnail": "https://i.ytimg.com/vi/PS_K1Ypi8B0/hqdefault.jpg"
         },
         {
             "index": 42,
-            "duration": "3:47",
+            "duration": 227,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
-            "title": "4,116,395 viewsSep 30, 2020",
-            "channel": "28M subscribers",
-            "likes": "2.5K",
-            "dislikes": "SHARE",
-            "subscribers": "SUBSCRIBE",
-            "views": "296K",
-            "url": "https://www.youtube.com/watch?v=XT7Oh6vTY1Q"
+            "title": "TAEYEON \u30c6 \u30e8 \u30f3 '#GirlsSpkOut (Feat.\u3061 \u3083 \u3093 \u307f \u306a)' MV",
+            "channel": "SMTOWN",
+            "likes": 296000,
+            "dislikes": 2500,
+            "subscribers": 28000000,
+            "views": 4116395,
+            "url": "https://www.youtube.com/watch?v=XT7Oh6vTY1Q",
+            "thumbnail": "https://i.ytimg.com/vi/XT7Oh6vTY1Q/hqdefault.jpg"
         },
         {
             "index": 43,
-            "duration": "3:37",
+            "duration": 217,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "SUPER JUNIOR-D&E \uc288\ud37c\uc8fc\ub2c8\uc5b4-D&E 'No Love' MV",
             "channel": "SMTOWN",
-            "likes": "159K",
-            "dislikes": "1K",
-            "subscribers": "28M",
-            "views": "2,391,874",
-            "url": "https://www.youtube.com/watch?v=IDMQQ88kjug"
+            "likes": 159000,
+            "dislikes": 1000,
+            "subscribers": 28000000,
+            "views": 2391874,
+            "url": "https://www.youtube.com/watch?v=IDMQQ88kjug",
+            "thumbnail": "https://i.ytimg.com/vi/IDMQQ88kjug/hqdefault.jpg"
         },
         {
             "index": 44,
-            "duration": "4:08",
+            "duration": 248,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "SuperM \uc288\ud37c\uc5e0 \u2018One (Monster & Infinity)\u2019 MV",
             "channel": "SMTOWN",
-            "likes": "1.2M",
-            "dislikes": "12K",
-            "subscribers": "28M",
-            "views": "30,413,563",
-            "url": "https://www.youtube.com/watch?v=-MyvZMiRGvE"
+            "likes": 1200000,
+            "dislikes": 12000,
+            "subscribers": 28000000,
+            "views": 30413563,
+            "url": "https://www.youtube.com/watch?v=-MyvZMiRGvE",
+            "thumbnail": "https://i.ytimg.com/vi/-MyvZMiRGvE/hqdefault.jpg"
         },
         {
             "index": 45,
-            "duration": "3:41",
+            "duration": 221,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "TAEMIN \ud0dc\ubbfc 'Criminal' MV",
             "channel": "SMTOWN",
-            "likes": "1.1M",
-            "dislikes": "6.5K",
-            "subscribers": "28M",
-            "views": "28,896,673",
-            "url": "https://www.youtube.com/watch?v=hFQL7BS6lrs"
+            "likes": 1100000,
+            "dislikes": 6500,
+            "subscribers": 28000000,
+            "views": 28896673,
+            "url": "https://www.youtube.com/watch?v=hFQL7BS6lrs",
+            "thumbnail": "https://i.ytimg.com/vi/hFQL7BS6lrs/hqdefault.jpg"
         },
         {
             "index": 46,
-            "duration": "3:37",
+            "duration": 217,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "SUPER JUNIOR-D&E \uc288\ud37c\uc8fc\ub2c8\uc5b4-D&E 'B.A.D' MV",
             "channel": "SMTOWN",
-            "likes": "256K",
-            "dislikes": "2K",
-            "subscribers": "28M",
-            "views": "3,091,490",
-            "url": "https://www.youtube.com/watch?v=f5uu30E_tL0"
+            "likes": 256000,
+            "dislikes": 2000,
+            "subscribers": 28000000,
+            "views": 3091490,
+            "url": "https://www.youtube.com/watch?v=f5uu30E_tL0",
+            "thumbnail": "https://i.ytimg.com/vi/f5uu30E_tL0/hqdefault.jpg"
         },
         {
             "index": 47,
-            "duration": "3:42",
+            "duration": 222,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "SuperM \uc288\ud37c\uc5e0 \u2018\ud638\ub791\uc774 (Tiger Inside)\u2019 MV",
             "channel": "SMTOWN",
-            "likes": "2.1M",
-            "dislikes": "32K",
-            "subscribers": "28M",
-            "views": "51,318,269",
-            "url": "https://www.youtube.com/watch?v=jUsUzbmSLow"
+            "likes": 2100000,
+            "dislikes": 32000,
+            "subscribers": 28000000,
+            "views": 51318269,
+            "url": "https://www.youtube.com/watch?v=jUsUzbmSLow",
+            "thumbnail": "https://i.ytimg.com/vi/jUsUzbmSLow/hqdefault.jpg"
         },
         {
             "index": 48,
-            "duration": "3:36",
+            "duration": 216,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "[STATION] Red Velvet \ub808\ub4dc\ubca8\ubcb3 'Milky Way' Live Video - Our Beloved BoA #4",
             "channel": "SM STATION",
-            "likes": "506K",
-            "dislikes": "2.5K",
-            "subscribers": "528K",
-            "views": "7,004,977",
-            "url": "https://www.youtube.com/watch?v=BxZVxFGTQNU"
+            "likes": 506000,
+            "dislikes": 2500,
+            "subscribers": 528000,
+            "views": 7004977,
+            "url": "https://www.youtube.com/watch?v=BxZVxFGTQNU",
+            "thumbnail": "https://i.ytimg.com/vi/BxZVxFGTQNU/hqdefault.jpg"
         },
         {
             "index": 49,
-            "duration": "3:37",
+            "duration": 217,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "SuperM \uc288\ud37c\uc5e0 \u2018100' MV",
             "channel": "SMTOWN",
-            "likes": "1.8M",
-            "dislikes": "42K",
-            "subscribers": "28M",
-            "views": "25,994,689",
-            "url": "https://www.youtube.com/watch?v=nyzhtvtJWDQ"
+            "likes": 1800000,
+            "dislikes": 42000,
+            "subscribers": 28000000,
+            "views": 25994689,
+            "url": "https://www.youtube.com/watch?v=nyzhtvtJWDQ",
+            "thumbnail": "https://i.ytimg.com/vi/nyzhtvtJWDQ/hqdefault.jpg"
         },
         {
             "index": 50,
-            "duration": "3:34",
+            "duration": 214,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "TAEMIN \ud0dc\ubbfc \u20182 KIDS\u2019 MV",
             "channel": "SMTOWN",
-            "likes": "641K",
-            "dislikes": "2.7K",
-            "subscribers": "28M",
-            "views": "7,873,547",
-            "url": "https://www.youtube.com/watch?v=7UZRHi0kh3c"
+            "likes": 641000,
+            "dislikes": 2700,
+            "subscribers": 28000000,
+            "views": 7873547,
+            "url": "https://www.youtube.com/watch?v=7UZRHi0kh3c",
+            "thumbnail": "https://i.ytimg.com/vi/7UZRHi0kh3c/hqdefault.jpg"
         },
         {
             "index": 51,
-            "duration": "3:26",
+            "duration": 206,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "[STATION] BAEKHYUN \ubc31\ud604 '\uacf5\uc911\uc815\uc6d0 (Garden In The Air)' Live Video - Our Beloved BoA #1",
             "channel": "SM STATION",
-            "likes": "267K",
-            "dislikes": "1K",
-            "subscribers": "528K",
-            "views": "3,336,090",
-            "url": "https://www.youtube.com/watch?v=ddu8Lo4c4jU"
+            "likes": 267000,
+            "dislikes": 1000,
+            "subscribers": 528000,
+            "views": 3336090,
+            "url": "https://www.youtube.com/watch?v=ddu8Lo4c4jU",
+            "thumbnail": "https://i.ytimg.com/vi/ddu8Lo4c4jU/hqdefault.jpg"
         },
         {
             "index": 52,
-            "duration": "3:55",
+            "duration": 235,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "Red Velvet - IRENE & SEULGI \u2018\ub180\uc774 (Naughty) (Demicat Remix)\u2019 MV",
             "channel": "SMTOWN",
-            "likes": "128K",
-            "dislikes": "1.3K",
-            "subscribers": "28M",
-            "views": "1,114,713",
-            "url": "https://www.youtube.com/watch?v=EBg958rj4dg"
+            "likes": 128000,
+            "dislikes": 1300,
+            "subscribers": 28000000,
+            "views": 1114713,
+            "url": "https://www.youtube.com/watch?v=EBg958rj4dg",
+            "thumbnail": "https://i.ytimg.com/vi/EBg958rj4dg/hqdefault.jpg"
         },
         {
             "index": 53,
-            "duration": "3:56",
+            "duration": 236,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "WayV \u5a01\u795eV 'Bad Alive (English Ver.)' MV",
             "channel": "SMTOWN",
-            "likes": "884K",
-            "dislikes": "3.3K",
-            "subscribers": "28M",
-            "views": "19,334,506",
-            "url": "https://www.youtube.com/watch?v=sB2YVGPPXW0"
+            "likes": 884000,
+            "dislikes": 3300,
+            "subscribers": 28000000,
+            "views": 19334506,
+            "url": "https://www.youtube.com/watch?v=sB2YVGPPXW0",
+            "thumbnail": "https://i.ytimg.com/vi/sB2YVGPPXW0/hqdefault.jpg"
         },
         {
             "index": 54,
-            "duration": "4:16",
+            "duration": 256,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "KYUHYUN \uaddc\ud604 \u2018Dreaming\u2019 Special Clip",
             "channel": "SMTOWN",
-            "likes": "114K",
-            "dislikes": "606",
-            "subscribers": "28M",
-            "views": "1,858,714",
-            "url": "https://www.youtube.com/watch?v=B3Z3t6Ct1N8"
+            "likes": 114000,
+            "dislikes": 606,
+            "subscribers": 28000000,
+            "views": 1858714,
+            "url": "https://www.youtube.com/watch?v=B3Z3t6Ct1N8",
+            "thumbnail": "https://i.ytimg.com/vi/B3Z3t6Ct1N8/hqdefault.jpg"
         },
         {
             "index": 55,
-            "duration": "3:22",
+            "duration": 202,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "HYO \u2018DESSERT (Feat. Loopy, SOYEON ((G)I-DLE))\u2019 MV",
             "channel": "SMTOWN",
-            "likes": "1.4M",
-            "dislikes": "17K",
-            "subscribers": "28M",
-            "views": "45,263,342",
-            "url": "https://www.youtube.com/watch?v=4VmLuWDkHYQ"
+            "likes": 1400000,
+            "dislikes": 17000,
+            "subscribers": 28000000,
+            "views": 45263342,
+            "url": "https://www.youtube.com/watch?v=4VmLuWDkHYQ",
+            "thumbnail": "https://i.ytimg.com/vi/4VmLuWDkHYQ/hqdefault.jpg"
         },
         {
             "index": 56,
-            "duration": "4:37",
+            "duration": 277,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "Red Velvet - IRENE & SEULGI Episode 1 \"\ub180\uc774 (Naughty)\"",
             "channel": "Red Velvet",
-            "likes": "797K",
-            "dislikes": "5.8K",
-            "subscribers": "4.12M",
-            "views": "14,682,942",
-            "url": "https://www.youtube.com/watch?v=wCWoUUWwdqg"
+            "likes": 797000,
+            "dislikes": 5800,
+            "subscribers": 4120000,
+            "views": 14682942,
+            "url": "https://www.youtube.com/watch?v=wCWoUUWwdqg",
+            "thumbnail": "https://i.ytimg.com/vi/wCWoUUWwdqg/hqdefault.jpg"
         },
         {
             "index": 57,
-            "duration": "2:40",
+            "duration": 160,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "GIANT PINK \uc790\uc774\uc5b8\ud2b8\ud551\ud06c 'Burn Out' MV (Performance Ver.)",
             "channel": "SMTOWN",
-            "likes": "49K",
-            "dislikes": "816",
-            "subscribers": "28M",
-            "views": "572,874",
-            "url": "https://www.youtube.com/watch?v=mksIOklErKk"
+            "likes": 49000,
+            "dislikes": 816,
+            "subscribers": 28000000,
+            "views": 572874,
+            "url": "https://www.youtube.com/watch?v=mksIOklErKk",
+            "thumbnail": "https://i.ytimg.com/vi/mksIOklErKk/hqdefault.jpg"
         },
         {
             "index": 58,
-            "duration": "3:29",
+            "duration": 209,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "EXO-SC \uc138\ud6c8&\ucc2c\uc5f4 '10\uc5b5\ubdf0 (1 Billion Views) (Feat. MOON)' MV",
             "channel": "SMTOWN",
-            "likes": "1.3M",
-            "dislikes": "11K",
-            "subscribers": "28M",
-            "views": "18,793,522",
-            "url": "https://www.youtube.com/watch?v=9sLaT9eHAYQ"
+            "likes": 1300000,
+            "dislikes": 11000,
+            "subscribers": 28000000,
+            "views": 18793522,
+            "url": "https://www.youtube.com/watch?v=9sLaT9eHAYQ",
+            "thumbnail": "https://i.ytimg.com/vi/9sLaT9eHAYQ/hqdefault.jpg"
         },
         {
             "index": 59,
-            "duration": "1:58",
+            "duration": 118,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "EXO-SC \uc138\ud6c8&\ucc2c\uc5f4 'On Me' Track MV (SEHUN Solo)",
             "channel": "EXO",
-            "likes": "1M",
-            "dislikes": "5.8K",
-            "subscribers": "8.07M",
-            "views": "11,941,781",
-            "url": "https://www.youtube.com/watch?v=6SbXGBC7GU4"
+            "likes": 1000000,
+            "dislikes": 5800,
+            "subscribers": 8070000,
+            "views": 11941781,
+            "url": "https://www.youtube.com/watch?v=6SbXGBC7GU4",
+            "thumbnail": "https://i.ytimg.com/vi/6SbXGBC7GU4/hqdefault.jpg"
         },
         {
             "index": 60,
-            "duration": "2:18",
+            "duration": 138,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "EXO-SC \uc138\ud6c8&\ucc2c\uc5f4 'Nothin\u2019' Track MV (CHANYEOL Solo)",
             "channel": "EXO",
-            "likes": "905K",
-            "dislikes": "3.5K",
-            "subscribers": "8.07M",
-            "views": "11,132,323",
-            "url": "https://www.youtube.com/watch?v=yClGpsAUm84"
+            "likes": 905000,
+            "dislikes": 3500,
+            "subscribers": 8070000,
+            "views": 11132323,
+            "url": "https://www.youtube.com/watch?v=yClGpsAUm84",
+            "thumbnail": "https://i.ytimg.com/vi/yClGpsAUm84/hqdefault.jpg"
         },
         {
             "index": 61,
-            "duration": "3:01",
+            "duration": 181,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "Red Velvet - IRENE & SEULGI 'Monster' MV",
             "channel": "SMTOWN",
-            "likes": "3.3M",
-            "dislikes": "68K",
-            "subscribers": "28M",
-            "views": "102,022,665",
-            "url": "https://www.youtube.com/watch?v=Ujb-gvqsoi0"
+            "likes": 3300000,
+            "dislikes": 68000,
+            "subscribers": 28000000,
+            "views": 102022665,
+            "url": "https://www.youtube.com/watch?v=Ujb-gvqsoi0",
+            "thumbnail": "https://i.ytimg.com/vi/Ujb-gvqsoi0/hqdefault.jpg"
         },
         {
             "index": 62,
-            "duration": "3:19",
+            "duration": 199,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "EXO-SC \uc138\ud6c8&\ucc2c\uc5f4 '\ucc99 (Telephone) (Feat. 10CM)' MV",
             "channel": "SMTOWN",
-            "likes": "1.5M",
-            "dislikes": "10K",
-            "subscribers": "28M",
-            "views": "17,056,838",
-            "url": "https://www.youtube.com/watch?v=5Lw38CVAVxw"
+            "likes": 1500000,
+            "dislikes": 10000,
+            "subscribers": 28000000,
+            "views": 17056838,
+            "url": "https://www.youtube.com/watch?v=5Lw38CVAVxw",
+            "thumbnail": "https://i.ytimg.com/vi/5Lw38CVAVxw/hqdefault.jpg"
         },
         {
             "index": 63,
-            "duration": "4:10",
+            "duration": 250,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "WayV \u5a01\u795eV 'Turn Back Time (\u8d85\u65f6\u7a7a \u56de)' MV",
             "channel": "SMTOWN",
-            "likes": "1.5M",
-            "dislikes": "10K",
-            "subscribers": "28M",
-            "views": "35,673,822",
-            "url": "https://www.youtube.com/watch?v=eUCVRF6hjSQ"
+            "likes": 1500000,
+            "dislikes": 10000,
+            "subscribers": 28000000,
+            "views": 35673822,
+            "url": "https://www.youtube.com/watch?v=eUCVRF6hjSQ",
+            "thumbnail": "https://i.ytimg.com/vi/eUCVRF6hjSQ/hqdefault.jpg"
         },
         {
             "index": 64,
-            "duration": "4:08",
+            "duration": 248,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "SUPER JUNIOR-K.R.Y. '\ud478\ub974\uac8c \ube5b\ub098\ub358 \uc6b0\ub9ac\uc758 \uacc4\uc808 (When We Were Us)' MV",
             "channel": "SMTOWN",
-            "likes": "288K",
-            "dislikes": "996",
-            "subscribers": "28M",
-            "views": "4,578,616",
-            "url": "https://www.youtube.com/watch?v=n0LZmB2UjxA"
+            "likes": 288000,
+            "dislikes": 996,
+            "subscribers": 28000000,
+            "views": 4578616,
+            "url": "https://www.youtube.com/watch?v=n0LZmB2UjxA",
+            "thumbnail": "https://i.ytimg.com/vi/n0LZmB2UjxA/hqdefault.jpg"
         },
         {
             "index": 65,
-            "duration": "3:50",
+            "duration": 230,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "BAEKHYUN \ubc31\ud604 'Candy' MV",
             "channel": "SMTOWN",
-            "likes": "2.6M",
-            "dislikes": "38K",
-            "subscribers": "28M",
-            "views": "63,654,370",
-            "url": "https://www.youtube.com/watch?v=gmgcRWxhmqY"
+            "likes": 2600000,
+            "dislikes": 38000,
+            "subscribers": 28000000,
+            "views": 63654370,
+            "url": "https://www.youtube.com/watch?v=gmgcRWxhmqY",
+            "thumbnail": "https://i.ytimg.com/vi/gmgcRWxhmqY/hqdefault.jpg"
         },
         {
             "index": 66,
-            "duration": "3:33",
+            "duration": 213,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "NCT 127 \uc5d4\uc2dc\ud2f0 127 'Punch' MV",
             "channel": "SMTOWN",
-            "likes": "1.7M",
-            "dislikes": "25K",
-            "subscribers": "28M",
-            "views": "39,302,896",
-            "url": "https://www.youtube.com/watch?v=U08OSl3V4po"
+            "likes": 1700000,
+            "dislikes": 25000,
+            "subscribers": 28000000,
+            "views": 39302896,
+            "url": "https://www.youtube.com/watch?v=U08OSl3V4po",
+            "thumbnail": "https://i.ytimg.com/vi/U08OSl3V4po/hqdefault.jpg"
         },
         {
             "index": 67,
-            "duration": "3:56",
+            "duration": 236,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "Raiden X CHANYEOL 'Yours (Feat. LeeHi, CHANGMO)' MV",
             "channel": "SMTOWN",
-            "likes": "1.7M",
-            "dislikes": "7.3K",
-            "subscribers": "28M",
-            "views": "44,289,219",
-            "url": "https://www.youtube.com/watch?v=N2dsnGc7TFk"
+            "likes": 1700000,
+            "dislikes": 7300,
+            "subscribers": 28000000,
+            "views": 44289219,
+            "url": "https://www.youtube.com/watch?v=N2dsnGc7TFk",
+            "thumbnail": "https://i.ytimg.com/vi/N2dsnGc7TFk/hqdefault.jpg"
         },
         {
             "index": 68,
-            "duration": "3:45",
+            "duration": 225,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "TAEYEON \ud0dc\uc5f0 'Happy' MV",
             "channel": "SMTOWN",
-            "likes": "710K",
-            "dislikes": "7.5K",
-            "subscribers": "28M",
-            "views": "10,562,279",
-            "url": "https://www.youtube.com/watch?v=Raj-AuQgCTg"
+            "likes": 710000,
+            "dislikes": 7500,
+            "subscribers": 28000000,
+            "views": 10562279,
+            "url": "https://www.youtube.com/watch?v=Raj-AuQgCTg",
+            "thumbnail": "https://i.ytimg.com/vi/Raj-AuQgCTg/hqdefault.jpg"
         },
         {
             "index": 69,
-            "duration": "3:31",
+            "duration": 211,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "NCT DREAM \uc5d4\uc2dc\ud2f0 \ub4dc\ub9bc 'Ridin'' MV",
             "channel": "SMTOWN",
-            "likes": "2.2M",
-            "dislikes": "28K",
-            "subscribers": "28M",
-            "views": "65,949,569",
-            "url": "https://www.youtube.com/watch?v=vofjeJvRT9c"
+            "likes": 2200000,
+            "dislikes": 28000,
+            "subscribers": 28000000,
+            "views": 65949569,
+            "url": "https://www.youtube.com/watch?v=vofjeJvRT9c",
+            "thumbnail": "https://i.ytimg.com/vi/vofjeJvRT9c/hqdefault.jpg"
         },
         {
             "index": 70,
-            "duration": "2:56",
+            "duration": 176,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "MAX CHANGMIN \ucd5c\uac15\ucc3d\ubbfc 'Chocolate' MV",
             "channel": "SMTOWN",
-            "likes": "321K",
-            "dislikes": "3.3K",
-            "subscribers": "28M",
-            "views": "5,766,616",
-            "url": "https://www.youtube.com/watch?v=-sKqPjhSiq0"
+            "likes": 321000,
+            "dislikes": 3300,
+            "subscribers": 28000000,
+            "views": 5766616,
+            "url": "https://www.youtube.com/watch?v=-sKqPjhSiq0",
+            "thumbnail": "https://i.ytimg.com/vi/-sKqPjhSiq0/hqdefault.jpg"
         },
         {
             "index": 71,
-            "duration": "3:54",
+            "duration": 234,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "SUHO \uc218\ud638 '\uc0ac\ub791, \ud558\uc790 (Let\u2019s Love)' MV",
             "channel": "SMTOWN",
-            "likes": "1.1M",
-            "dislikes": "7.3K",
-            "subscribers": "28M",
-            "views": "12,597,851",
-            "url": "https://www.youtube.com/watch?v=Ygrv55VRRas"
+            "likes": 1100000,
+            "dislikes": 7300,
+            "subscribers": 28000000,
+            "views": 12597851,
+            "url": "https://www.youtube.com/watch?v=Ygrv55VRRas",
+            "thumbnail": "https://i.ytimg.com/vi/Ygrv55VRRas/hqdefault.jpg"
         },
         {
             "index": 72,
-            "duration": "3:58",
+            "duration": 238,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "NCT 127 \uc5d4\uc2dc\ud2f0 127 '\uc601\uc6c5 (\u82f1\u96c4; Kick It)' MV",
             "channel": "SMTOWN",
-            "likes": "3.3M",
-            "dislikes": "58K",
-            "subscribers": "28M",
-            "views": "124,983,071",
-            "url": "https://www.youtube.com/watch?v=2OvyA2__Eas"
+            "likes": 3300000,
+            "dislikes": 58000,
+            "subscribers": 28000000,
+            "views": 124983071,
+            "url": "https://www.youtube.com/watch?v=2OvyA2__Eas",
+            "thumbnail": "https://i.ytimg.com/vi/2OvyA2__Eas/hqdefault.jpg"
         },
         {
             "index": 73,
-            "duration": "2:56",
+            "duration": 176,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "IMLAY 'Asteroid (Feat. YANGYANG of WayV)' MV",
             "channel": "SMTOWN",
-            "likes": "178K",
-            "dislikes": "562",
-            "subscribers": "28M",
-            "views": "1,293,351",
-            "url": "https://www.youtube.com/watch?v=r2dAhHvbhI4"
+            "likes": 178000,
+            "dislikes": 562,
+            "subscribers": 28000000,
+            "views": 1293351,
+            "url": "https://www.youtube.com/watch?v=r2dAhHvbhI4",
+            "thumbnail": "https://i.ytimg.com/vi/r2dAhHvbhI4/hqdefault.jpg"
         },
         {
             "index": 74,
-            "duration": "3:29",
+            "duration": 209,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "SUPER JUNIOR \uc288\ud37c\uc8fc\ub2c8\uc5b4 '2YA2YAO!' MV",
             "channel": "SMTOWN",
-            "likes": "915K",
-            "dislikes": "8.5K",
-            "subscribers": "28M",
-            "views": "19,017,055",
-            "url": "https://www.youtube.com/watch?v=Uqi34thogl4"
+            "likes": 915000,
+            "dislikes": 8500,
+            "subscribers": 28000000,
+            "views": 19017055,
+            "url": "https://www.youtube.com/watch?v=Uqi34thogl4",
+            "thumbnail": "https://i.ytimg.com/vi/Uqi34thogl4/hqdefault.jpg"
         },
         {
             "index": 75,
-            "duration": "3:47",
+            "duration": 227,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "TAEYEON \ud0dc\uc5f0 '\ub0b4\uac8c \ub4e4\ub824\uc8fc\uace0 \uc2f6\uc740 \ub9d0 (Dear Me)' MV",
             "channel": "SMTOWN",
-            "likes": "326K",
-            "dislikes": "2.1K",
-            "subscribers": "28M",
-            "views": "5,903,598",
-            "url": "https://www.youtube.com/watch?v=bho0m505qVA"
+            "likes": 326000,
+            "dislikes": 2100,
+            "subscribers": 28000000,
+            "views": 5903598,
+            "url": "https://www.youtube.com/watch?v=bho0m505qVA",
+            "thumbnail": "https://i.ytimg.com/vi/bho0m505qVA/hqdefault.jpg"
         },
         {
             "index": 76,
-            "duration": "0:06",
+            "duration": 6,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "Red Velvet \ub808\ub4dc\ubca8\ubcb3 'Psycho' Performance Video",
             "channel": "Red Velvet",
-            "likes": "1.7M",
-            "dislikes": "19K",
-            "subscribers": "4.12M",
-            "views": "84,892,783",
-            "url": "https://www.youtube.com/watch?v=Z7yNvMzz2zg"
+            "likes": 1700000,
+            "dislikes": 19000,
+            "subscribers": 4120000,
+            "views": 84892783,
+            "url": "https://www.youtube.com/watch?v=Z7yNvMzz2zg",
+            "thumbnail": "https://i.ytimg.com/vi/Z7yNvMzz2zg/hqdefault.jpg"
         },
         {
             "index": 77,
-            "duration": "3:35",
+            "duration": 215,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "Red Velvet \ub808\ub4dc\ubca8\ubcb3 'Psycho' MV",
             "channel": "SMTOWN",
-            "likes": "5.3M",
-            "dislikes": "80K",
-            "subscribers": "28M",
-            "views": "281,849,413",
-            "url": "https://www.youtube.com/watch?v=uR8Mrt1IpXg"
+            "likes": 5300000,
+            "dislikes": 80000,
+            "subscribers": 28000000,
+            "views": 281849413,
+            "url": "https://www.youtube.com/watch?v=uR8Mrt1IpXg",
+            "thumbnail": "https://i.ytimg.com/vi/uR8Mrt1IpXg/hqdefault.jpg"
         },
         {
             "index": 78,
-            "duration": "4:39",
+            "duration": 279,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "[STATION X] NCT U \uc5d4\uc2dc\ud2f0 \uc720 'Coming Home (Sung by \ud0dc\uc77c, \ub3c4\uc601, \uc7ac\ud604, \ud574\ucc2c)' MV",
             "channel": "SMTOWN",
-            "likes": "505K",
-            "dislikes": "1.2K",
-            "subscribers": "28M",
-            "views": "7,894,420",
-            "url": "https://www.youtube.com/watch?v=57sYinArEC4"
+            "likes": 505000,
+            "dislikes": 1200,
+            "subscribers": 28000000,
+            "views": 7894420,
+            "url": "https://www.youtube.com/watch?v=57sYinArEC4",
+            "thumbnail": "https://i.ytimg.com/vi/57sYinArEC4/hqdefault.jpg"
         },
         {
             "index": 79,
-            "duration": "3:34",
+            "duration": 214,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "BoA \ubcf4\uc544 'Starry Night (Feat. Crush)' MV",
             "channel": "SMTOWN",
-            "likes": "59K",
-            "dislikes": "712",
-            "subscribers": "28M",
-            "views": "937,052",
-            "url": "https://www.youtube.com/watch?v=u3ZYUsd1vRU"
+            "likes": 59000,
+            "dislikes": 712,
+            "subscribers": 28000000,
+            "views": 937052,
+            "url": "https://www.youtube.com/watch?v=u3ZYUsd1vRU",
+            "thumbnail": "https://i.ytimg.com/vi/u3ZYUsd1vRU/hqdefault.jpg"
         },
         {
             "index": 80,
-            "duration": "3:39",
+            "duration": 219,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "EXO \uc5d1\uc18c 'Obsession' MV",
             "channel": "SMTOWN",
-            "likes": "4.3M",
-            "dislikes": "112K",
-            "subscribers": "28M",
-            "views": "137,687,360",
-            "url": "https://www.youtube.com/watch?v=uxmP4b2a0uY"
+            "likes": 4300000,
+            "dislikes": 112000,
+            "subscribers": 28000000,
+            "views": 137687360,
+            "url": "https://www.youtube.com/watch?v=uxmP4b2a0uY",
+            "thumbnail": "https://i.ytimg.com/vi/uxmP4b2a0uY/hqdefault.jpg"
         },
         {
             "index": 81,
-            "duration": "4:09",
+            "duration": 249,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "[STATION X] SMTOWN 'This is Your Day (for every child, UNICEF)' MV",
             "channel": "SMTOWN",
-            "likes": "142K",
-            "dislikes": "408",
-            "subscribers": "28M",
-            "views": "1,232,061",
-            "url": "https://www.youtube.com/watch?v=5o4IiGiU6_4"
+            "likes": 142000,
+            "dislikes": 408,
+            "subscribers": 28000000,
+            "views": 1232061,
+            "url": "https://www.youtube.com/watch?v=5o4IiGiU6_4",
+            "thumbnail": "https://i.ytimg.com/vi/5o4IiGiU6_4/hqdefault.jpg"
         },
         {
             "index": 82,
-            "duration": "3:45",
+            "duration": 225,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "TAEYEON \ud0dc\uc5f0 '\ubd88\ud2f0 (Spark)' MV",
             "channel": "SMTOWN",
-            "likes": "787K",
-            "dislikes": "8.9K",
-            "subscribers": "28M",
-            "views": "32,673,548",
-            "url": "https://www.youtube.com/watch?v=eP4ga_fNm-E"
+            "likes": 787000,
+            "dislikes": 8900,
+            "subscribers": 28000000,
+            "views": 32673548,
+            "url": "https://www.youtube.com/watch?v=eP4ga_fNm-E",
+            "thumbnail": "https://i.ytimg.com/vi/eP4ga_fNm-E/hqdefault.jpg"
         },
         {
             "index": 83,
-            "duration": "3:57",
+            "duration": 237,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "WayV \u5a01\u795eV '\u5929\u9009\u4e4b\u57ce (Moonwalk)' MV",
             "channel": "SMTOWN",
-            "likes": "828K",
-            "dislikes": "2.8K",
-            "subscribers": "28M",
-            "views": "17,091,753",
-            "url": "https://www.youtube.com/watch?v=UsaGgEjqNoE"
+            "likes": 828000,
+            "dislikes": 2800,
+            "subscribers": 28000000,
+            "views": 17091753,
+            "url": "https://www.youtube.com/watch?v=UsaGgEjqNoE",
+            "thumbnail": "https://i.ytimg.com/vi/UsaGgEjqNoE/hqdefault.jpg"
         },
         {
             "index": 84,
-            "duration": "3:55",
+            "duration": 235,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "WayV \u5a01\u795eV 'Love Talk' MV",
             "channel": "SMTOWN",
-            "likes": "1.5M",
-            "dislikes": "5.5K",
-            "subscribers": "28M",
-            "views": "54,192,783",
-            "url": "https://www.youtube.com/watch?v=N5qWjQ9j6l0"
+            "likes": 1500000,
+            "dislikes": 5500,
+            "subscribers": 28000000,
+            "views": 54192783,
+            "url": "https://www.youtube.com/watch?v=N5qWjQ9j6l0",
+            "thumbnail": "https://i.ytimg.com/vi/N5qWjQ9j6l0/hqdefault.jpg"
         },
         {
             "index": 85,
-            "duration": "3:49",
+            "duration": 229,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "SUPER JUNIOR \uc288\ud37c\uc8fc\ub2c8\uc5b4 'SUPER Clap' MV",
             "channel": "SMTOWN",
-            "likes": "727K",
-            "dislikes": "8K",
-            "subscribers": "28M",
-            "views": "30,990,865",
-            "url": "https://www.youtube.com/watch?v=9yimV9i-dY0"
+            "likes": 727000,
+            "dislikes": 8000,
+            "subscribers": 28000000,
+            "views": 30990865,
+            "url": "https://www.youtube.com/watch?v=9yimV9i-dY0",
+            "thumbnail": "https://i.ytimg.com/vi/9yimV9i-dY0/hqdefault.jpg"
         },
         {
             "index": 86,
-            "duration": "4:44",
+            "duration": 284,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "SuperM \uc288\ud37c\uc5e0 \u2018Jopping\u2019 MV",
             "channel": "SMTOWN",
-            "likes": "3.4M",
-            "dislikes": "90K",
-            "subscribers": "28M",
-            "views": "101,532,505",
-            "url": "https://www.youtube.com/watch?v=pAnK1y7qjuE"
+            "likes": 3400000,
+            "dislikes": 90000,
+            "subscribers": 28000000,
+            "views": 101532505,
+            "url": "https://www.youtube.com/watch?v=pAnK1y7qjuE",
+            "thumbnail": "https://i.ytimg.com/vi/pAnK1y7qjuE/hqdefault.jpg"
         },
         {
             "index": 87,
-            "duration": "3:44",
+            "duration": 224,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "CHEN \uccb8 '\uc6b0\ub9ac \uc5b4\ub5bb\uac8c \ud560\uae4c\uc694 (Shall we?)' MV",
             "channel": "SMTOWN",
-            "likes": "631K",
-            "dislikes": "2.7K",
-            "subscribers": "28M",
-            "views": "9,622,178",
-            "url": "https://www.youtube.com/watch?v=AO1OqWwKj1A"
+            "likes": 631000,
+            "dislikes": 2700,
+            "subscribers": 28000000,
+            "views": 9622178,
+            "url": "https://www.youtube.com/watch?v=AO1OqWwKj1A",
+            "thumbnail": "https://i.ytimg.com/vi/AO1OqWwKj1A/hqdefault.jpg"
         },
         {
             "index": 88,
-            "duration": "3:44",
+            "duration": 224,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "SUPER JUNIOR \uc288\ud37c\uc8fc\ub2c8\uc5b4 'I Think I' MV",
             "channel": "SMTOWN",
-            "likes": "689K",
-            "dislikes": "5K",
-            "subscribers": "28M",
-            "views": "14,595,080",
-            "url": "https://www.youtube.com/watch?v=CbFh06IpSwA"
+            "likes": 689000,
+            "dislikes": 5000,
+            "subscribers": 28000000,
+            "views": 14595080,
+            "url": "https://www.youtube.com/watch?v=CbFh06IpSwA",
+            "thumbnail": "https://i.ytimg.com/vi/CbFh06IpSwA/hqdefault.jpg"
         },
         {
             "index": 89,
-            "duration": "3:45",
+            "duration": 225,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "Red Velvet \ub808\ub4dc\ubca8\ubcb3 '\uc74c\ud30c\uc74c\ud30c (Umpah Umpah)' MV",
             "channel": "SMTOWN",
-            "likes": "1.5M",
-            "dislikes": "45K",
-            "subscribers": "28M",
-            "views": "43,938,161",
-            "url": "https://www.youtube.com/watch?v=vHS9E6JFja8"
+            "likes": 1500000,
+            "dislikes": 45000,
+            "subscribers": 28000000,
+            "views": 43938161,
+            "url": "https://www.youtube.com/watch?v=vHS9E6JFja8",
+            "thumbnail": "https://i.ytimg.com/vi/vHS9E6JFja8/hqdefault.jpg"
         },
         {
             "index": 90,
-            "duration": "3:16",
+            "duration": 196,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "Raiden \ub808\uc774\ub4e0 'The Only (Feat. \uc544\uc774\ub9b0 of Red Velvet)' MV",
             "channel": "SMTOWN",
-            "likes": "164K",
-            "dislikes": "1.9K",
-            "subscribers": "28M",
-            "views": "2,369,672",
-            "url": "https://www.youtube.com/watch?v=nIONbXLkA1g"
+            "likes": 164000,
+            "dislikes": 1900,
+            "subscribers": 28000000,
+            "views": 2369672,
+            "url": "https://www.youtube.com/watch?v=nIONbXLkA1g",
+            "thumbnail": "https://i.ytimg.com/vi/nIONbXLkA1g/hqdefault.jpg"
         },
         {
             "index": 91,
-            "duration": "0:06",
+            "duration": 6,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "Red Velvet \ub808\ub4dc\ubca8\ubcb3 'Milkshake' Special Video @'inteRView vol.5' with ReVeluv",
             "channel": "Red Velvet",
-            "likes": "353K",
-            "dislikes": "3.1K",
-            "subscribers": "4.12M",
-            "views": "4,586,719",
-            "url": "https://www.youtube.com/watch?v=PDy_i0UvAOI"
+            "likes": 353000,
+            "dislikes": 3100,
+            "subscribers": 4120000,
+            "views": 4586719,
+            "url": "https://www.youtube.com/watch?v=PDy_i0UvAOI",
+            "thumbnail": "https://i.ytimg.com/vi/PDy_i0UvAOI/hqdefault.jpg"
         },
         {
             "index": 92,
-            "duration": "3:17",
+            "duration": 197,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "NCT DREAM \uc5d4\uc2dc\ud2f0 \ub4dc\ub9bc 'BOOM' MV",
             "channel": "SMTOWN",
-            "likes": "2.7M",
-            "dislikes": "27K",
-            "subscribers": "28M",
-            "views": "118,836,679",
-            "url": "https://www.youtube.com/watch?v=X-iJZ0gfKPo"
+            "likes": 2700000,
+            "dislikes": 27000,
+            "subscribers": 28000000,
+            "views": 118836679,
+            "url": "https://www.youtube.com/watch?v=X-iJZ0gfKPo",
+            "thumbnail": "https://i.ytimg.com/vi/X-iJZ0gfKPo/hqdefault.jpg"
         },
         {
             "index": 93,
-            "duration": "3:19",
+            "duration": 199,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "EXO-SC \uc138\ud6c8&\ucc2c\uc5f4 '\ubd80\ub974\uba74 \ub3fc (Closer to you)' MV",
             "channel": "SMTOWN",
-            "likes": "699K",
-            "dislikes": "2.7K",
-            "subscribers": "28M",
-            "views": "7,472,273",
-            "url": "https://www.youtube.com/watch?v=GjO4inIuPZo"
+            "likes": 699000,
+            "dislikes": 2700,
+            "subscribers": 28000000,
+            "views": 7472273,
+            "url": "https://www.youtube.com/watch?v=GjO4inIuPZo",
+            "thumbnail": "https://i.ytimg.com/vi/GjO4inIuPZo/hqdefault.jpg"
         },
         {
             "index": 94,
-            "duration": "3:27",
+            "duration": 207,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "EXO-SC \uc138\ud6c8&\ucc2c\uc5f4 'What a life' MV",
             "channel": "SMTOWN",
-            "likes": "1.8M",
-            "dislikes": "22K",
-            "subscribers": "28M",
-            "views": "29,748,336",
-            "url": "https://www.youtube.com/watch?v=AtNBhPxVwh0"
+            "likes": 1800000,
+            "dislikes": 22000,
+            "subscribers": 28000000,
+            "views": 29748336,
+            "url": "https://www.youtube.com/watch?v=AtNBhPxVwh0",
+            "thumbnail": "https://i.ytimg.com/vi/AtNBhPxVwh0/hqdefault.jpg"
         },
         {
             "index": 95,
-            "duration": "3:36",
+            "duration": 216,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "NCT 127 \uc5d4\uc2dc\ud2f0 127 'Highway to Heaven (English Ver.)' MV",
             "channel": "SMTOWN",
-            "likes": "1M",
-            "dislikes": "6.4K",
-            "subscribers": "28M",
-            "views": "37,822,821",
-            "url": "https://www.youtube.com/watch?v=iFoqGyWhMws"
+            "likes": 1000000,
+            "dislikes": 6400,
+            "subscribers": 28000000,
+            "views": 37822821,
+            "url": "https://www.youtube.com/watch?v=iFoqGyWhMws",
+            "thumbnail": "https://i.ytimg.com/vi/iFoqGyWhMws/hqdefault.jpg"
         },
         {
             "index": 96,
-            "duration": "3:58",
+            "duration": 238,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "EXO-SC \uc138\ud6c8&\ucc2c\uc5f4 '\uc788\uc5b4 \ud76c\ubbf8\ud558\uac8c (Just us 2) (Feat. Gaeko)' MV",
             "channel": "SMTOWN",
-            "likes": "418K",
-            "dislikes": "860",
-            "subscribers": "28M",
-            "views": "4,791,029",
-            "url": "https://www.youtube.com/watch?v=SKAsHxi1Tlc"
+            "likes": 418000,
+            "dislikes": 860,
+            "subscribers": 28000000,
+            "views": 4791029,
+            "url": "https://www.youtube.com/watch?v=SKAsHxi1Tlc",
+            "thumbnail": "https://i.ytimg.com/vi/SKAsHxi1Tlc/hqdefault.jpg"
         },
         {
             "index": 97,
-            "duration": "3:33",
+            "duration": 213,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "[STATION 3] TAEYONG \ud0dc\uc6a9 'Long Flight' MV",
             "channel": "SMTOWN",
-            "likes": "852K",
-            "dislikes": "3.1K",
-            "subscribers": "28M",
-            "views": "18,463,488",
-            "url": "https://www.youtube.com/watch?v=SvV49SD99DY"
+            "likes": 852000,
+            "dislikes": 3100,
+            "subscribers": 28000000,
+            "views": 18463488,
+            "url": "https://www.youtube.com/watch?v=SvV49SD99DY",
+            "thumbnail": "https://i.ytimg.com/vi/SvV49SD99DY/hqdefault.jpg"
         },
         {
             "index": 98,
-            "duration": "4:02",
+            "duration": 242,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "BAEKHYUN \ubc31\ud604 'UN Village' MV",
             "channel": "SMTOWN",
-            "likes": "1.7M",
-            "dislikes": "8.9K",
-            "subscribers": "28M",
-            "views": "43,552,353",
-            "url": "https://www.youtube.com/watch?v=-EfjXQgE1e8"
+            "likes": 1700000,
+            "dislikes": 8900,
+            "subscribers": 28000000,
+            "views": 43552353,
+            "url": "https://www.youtube.com/watch?v=-EfjXQgE1e8",
+            "thumbnail": "https://i.ytimg.com/vi/-EfjXQgE1e8/hqdefault.jpg"
         },
         {
             "index": 99,
-            "duration": "4:03",
+            "duration": 243,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "[STATION 3] D.O. \ub514\uc624 '\uad1c\ucc2e\uc544\ub3c4 \uad1c\ucc2e\uc544 (That's okay)' MV",
             "channel": "SMTOWN",
-            "likes": "1.3M",
-            "dislikes": "4.2K",
-            "subscribers": "28M",
-            "views": "23,502,904",
-            "url": "https://www.youtube.com/watch?v=j2aQ_NqeTNw"
+            "likes": 1300000,
+            "dislikes": 4200,
+            "subscribers": 28000000,
+            "views": 23502904,
+            "url": "https://www.youtube.com/watch?v=j2aQ_NqeTNw",
+            "thumbnail": "https://i.ytimg.com/vi/j2aQ_NqeTNw/hqdefault.jpg"
         },
         {
             "index": 100,
-            "duration": "4:54",
+            "duration": 294,
             "trending": {
                 "rank": 0,
                 "category": "none"
             },
             "title": "SULLI \uc124\ub9ac '\uace0\ube14\ub9b0 (Goblin)' MV",
             "channel": "SMTOWN",
-            "likes": "903K",
-            "dislikes": "14K",
-            "subscribers": "28M",
-            "views": "16,071,082",
-            "url": "https://www.youtube.com/watch?v=P5uE7KDkDFE"
+            "likes": 903000,
+            "dislikes": 14000,
+            "subscribers": 28000000,
+            "views": 16071082,
+            "url": "https://www.youtube.com/watch?v=P5uE7KDkDFE",
+            "thumbnail": "https://i.ytimg.com/vi/P5uE7KDkDFE/hqdefault.jpg"
         }
     ]
 }
