@@ -14,7 +14,25 @@
             "subscribers": 28000000,
             "views": 1879095,
             "url": "https://www.youtube.com/watch?v=DYbWPPJbiKs",
-            "thumbnail": "https://i.ytimg.com/vi/DYbWPPJbiKs/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/DYbWPPJbiKs/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/1_1.png",
+                    "value": "Sedih"
+                },
+                {
+                    "img": "img/anotasi/1_2.png",
+                    "value": "Galau"
+                },
+                {
+                    "img": "img/anotasi/1_3.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/1_4.png",
+                    "value": "Datar"
+                }
+            ]
         },
         {
             "index": 2,
@@ -30,7 +48,49 @@
             "subscribers": 28000000,
             "views": 64226913,
             "url": "https://www.youtube.com/watch?v=2IkoKhr6Tss",
-            "thumbnail": "https://i.ytimg.com/vi/2IkoKhr6Tss/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/2IkoKhr6Tss/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/2_1.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/2_2.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/2_3.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/2_4.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/2_5.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/2_6.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/2_7.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/2_8.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/2_9.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/2_10.png",
+                    "value": "Serius"
+                }
+            ]
         },
         {
             "index": 3,
@@ -46,7 +106,49 @@
             "subscribers": 3410000,
             "views": 10003130,
             "url": "https://www.youtube.com/watch?v=O8Xq4xfH2ro",
-            "thumbnail": "https://i.ytimg.com/vi/O8Xq4xfH2ro/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/O8Xq4xfH2ro/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/3_1.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/3_2.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/3_3.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/3_4.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/3_5.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/3_6.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/3_7.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/3_8.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/3_9.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/3_10.png",
+                    "value": "Datar"
+                }
+            ]
         },
         {
             "index": 4,
@@ -62,7 +164,41 @@
             "subscribers": 28000000,
             "views": 11441741,
             "url": "https://www.youtube.com/watch?v=lNvBbh5jDcA",
-            "thumbnail": "https://i.ytimg.com/vi/lNvBbh5jDcA/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/lNvBbh5jDcA/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/4_1.png",
+                    "value": "Galau"
+                },
+                {
+                    "img": "img/anotasi/4_2.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/4_3.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/4_4.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/4_5.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/4_6.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/4_7.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/4_8.png",
+                    "value": "Senang"
+                }
+            ]
         },
         {
             "index": 5,
@@ -78,7 +214,25 @@
             "subscribers": 28000000,
             "views": 20918533,
             "url": "https://www.youtube.com/watch?v=sQg4VCB3bYw",
-            "thumbnail": "https://i.ytimg.com/vi/sQg4VCB3bYw/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/sQg4VCB3bYw/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/5_1.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/5_2.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/5_3.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/5_4.png",
+                    "value": "Serius"
+                }
+            ]
         },
         {
             "index": 6,
@@ -94,7 +248,37 @@
             "subscribers": 28000000,
             "views": 102707933,
             "url": "https://www.youtube.com/watch?v=4TWR90KJl84",
-            "thumbnail": "https://i.ytimg.com/vi/4TWR90KJl84/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/4TWR90KJl84/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/6_1.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/6_2.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/6_3.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/6_4.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/6_5.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/6_6.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/6_7.png",
+                    "value": "Serius"
+                }
+            ]
         },
         {
             "index": 7,
@@ -110,7 +294,57 @@
             "subscribers": 28000000,
             "views": 107703626,
             "url": "https://www.youtube.com/watch?v=PkKnp4SdE-w",
-            "thumbnail": "https://i.ytimg.com/vi/PkKnp4SdE-w/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/PkKnp4SdE-w/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/7_1.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/7_2.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/7_3.png",
+                    "value": "Kaget"
+                },
+                {
+                    "img": "img/anotasi/7_4.png",
+                    "value": "Kaget"
+                },
+                {
+                    "img": "img/anotasi/7_5.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/7_6.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/7_7.png",
+                    "value": "Kaget"
+                },
+                {
+                    "img": "img/anotasi/7_8.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/7_9.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/7_10.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/7_11.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/7_12.png",
+                    "value": "Kaget"
+                }
+            ]
         },
         {
             "index": 8,
@@ -126,7 +360,21 @@
             "subscribers": 28000000,
             "views": 1197785,
             "url": "https://www.youtube.com/watch?v=lzTAdIAneKA",
-            "thumbnail": "https://i.ytimg.com/vi/lzTAdIAneKA/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/lzTAdIAneKA/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/8_1.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/8_2.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/8_3.png",
+                    "value": "Senang"
+                }
+            ]
         },
         {
             "index": 9,
@@ -142,7 +390,29 @@
             "subscribers": 28000000,
             "views": 1082605,
             "url": "https://www.youtube.com/watch?v=6cJN-4n5CpI",
-            "thumbnail": "https://i.ytimg.com/vi/6cJN-4n5CpI/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/6cJN-4n5CpI/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/9_1.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/9_2.png",
+                    "value": "Sedih"
+                },
+                {
+                    "img": "img/anotasi/9_3.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/9_4.png",
+                    "value": "Sedih"
+                },
+                {
+                    "img": "img/anotasi/9_5.png",
+                    "value": "Sedih"
+                }
+            ]
         },
         {
             "index": 10,
@@ -158,7 +428,29 @@
             "subscribers": 4120000,
             "views": 2594027,
             "url": "https://www.youtube.com/watch?v=tknKZe_TyqU",
-            "thumbnail": "https://i.ytimg.com/vi/tknKZe_TyqU/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/tknKZe_TyqU/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/10_1.png",
+                    "value": "Galau"
+                },
+                {
+                    "img": "img/anotasi/10_2.png",
+                    "value": "Galau"
+                },
+                {
+                    "img": "img/anotasi/10_3.png",
+                    "value": "Galau"
+                },
+                {
+                    "img": "img/anotasi/10_4.png",
+                    "value": "Frustasi"
+                },
+                {
+                    "img": "img/anotasi/10_5.png",
+                    "value": "Galau"
+                }
+            ]
         },
         {
             "index": 11,
@@ -174,7 +466,21 @@
             "subscribers": 28000000,
             "views": 20161302,
             "url": "https://www.youtube.com/watch?v=PSYRbJjIT6U",
-            "thumbnail": "https://i.ytimg.com/vi/PSYRbJjIT6U/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/PSYRbJjIT6U/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/11_1.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/11_2.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/11_3.png",
+                    "value": "Senang"
+                }
+            ]
         },
         {
             "index": 12,
@@ -190,7 +496,33 @@
             "subscribers": 28000000,
             "views": 13368329,
             "url": "https://www.youtube.com/watch?v=-Ih5UArd4zk",
-            "thumbnail": "https://i.ytimg.com/vi/-Ih5UArd4zk/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/-Ih5UArd4zk/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/12_1.png",
+                    "value": "Jatuh Cinta"
+                },
+                {
+                    "img": "img/anotasi/12_2.png",
+                    "value": "Jatuh Cinta"
+                },
+                {
+                    "img": "img/anotasi/12_3.png",
+                    "value": "Jatuh Cinta"
+                },
+                {
+                    "img": "img/anotasi/12_4.png",
+                    "value": "Jatuh Cinta"
+                },
+                {
+                    "img": "img/anotasi/12_5.png",
+                    "value": "Jatuh Cinta"
+                },
+                {
+                    "img": "img/anotasi/12_6.png",
+                    "value": "Cemas"
+                }
+            ]
         },
         {
             "index": 13,
@@ -206,7 +538,21 @@
             "subscribers": 528000,
             "views": 4148826,
             "url": "https://www.youtube.com/watch?v=FgEpPwzt89Y",
-            "thumbnail": "https://i.ytimg.com/vi/FgEpPwzt89Y/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/FgEpPwzt89Y/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/13_1.png",
+                    "value": "Galau"
+                },
+                {
+                    "img": "img/anotasi/13_2.png",
+                    "value": "Galau"
+                },
+                {
+                    "img": "img/anotasi/13_3.png",
+                    "value": "Galau"
+                }
+            ]
         },
         {
             "index": 14,
@@ -222,7 +568,29 @@
             "subscribers": 28000000,
             "views": 23837484,
             "url": "https://www.youtube.com/watch?v=BtJMOVKjhUo",
-            "thumbnail": "https://i.ytimg.com/vi/BtJMOVKjhUo/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/BtJMOVKjhUo/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/14_1.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/14_2.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/14_3.png",
+                    "value": "Kaget"
+                },
+                {
+                    "img": "img/anotasi/14_4.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/14_5.png",
+                    "value": "Senang"
+                }
+            ]
         },
         {
             "index": 15,
@@ -238,7 +606,29 @@
             "subscribers": 28000000,
             "views": 20013806,
             "url": "https://www.youtube.com/watch?v=5h3sIRrQHJE",
-            "thumbnail": "https://i.ytimg.com/vi/5h3sIRrQHJE/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/5h3sIRrQHJE/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/15_1.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/15_2.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/15_3.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/15_4.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/15_5.png",
+                    "value": "Serius"
+                }
+            ]
         },
         {
             "index": 16,
@@ -254,7 +644,29 @@
             "subscribers": 28000000,
             "views": 49961458,
             "url": "https://www.youtube.com/watch?v=p6OoY6xneI0",
-            "thumbnail": "https://i.ytimg.com/vi/p6OoY6xneI0/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/p6OoY6xneI0/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/16_1.png",
+                    "value": "Marah"
+                },
+                {
+                    "img": "img/anotasi/16_2.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/16_3.png",
+                    "value": "Marah"
+                },
+                {
+                    "img": "img/anotasi/16_4.png",
+                    "value": "Marah"
+                },
+                {
+                    "img": "img/anotasi/16_5.png",
+                    "value": "Serius"
+                }
+            ]
         },
         {
             "index": 17,
@@ -270,7 +682,29 @@
             "subscribers": 28000000,
             "views": 31746101,
             "url": "https://www.youtube.com/watch?v=6ZUPsl0EVuk",
-            "thumbnail": "https://i.ytimg.com/vi/6ZUPsl0EVuk/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/6ZUPsl0EVuk/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/17_1.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/17_2.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/17_3.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/17_4.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/17_5.png",
+                    "value": "Serius"
+                }
+            ]
         },
         {
             "index": 18,
@@ -286,7 +720,29 @@
             "subscribers": 28000000,
             "views": 1651279,
             "url": "https://www.youtube.com/watch?v=gXwVNwdOFhk",
-            "thumbnail": "https://i.ytimg.com/vi/gXwVNwdOFhk/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/gXwVNwdOFhk/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/18_1.png",
+                    "value": "Galau"
+                },
+                {
+                    "img": "img/anotasi/18_2.png",
+                    "value": "Kaget"
+                },
+                {
+                    "img": "img/anotasi/18_3.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/18_4.png",
+                    "value": "Sedih"
+                },
+                {
+                    "img": "img/anotasi/18_5.png",
+                    "value": "Sedih"
+                }
+            ]
         },
         {
             "index": 19,
@@ -302,7 +758,29 @@
             "subscribers": 28000000,
             "views": 9078217,
             "url": "https://www.youtube.com/watch?v=2gvbKJYWaRA",
-            "thumbnail": "https://i.ytimg.com/vi/2gvbKJYWaRA/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/2gvbKJYWaRA/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/19_1.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/19_2.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/19_3.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/19_4.png",
+                    "value": "Jatuh Cinta"
+                },
+                {
+                    "img": "img/anotasi/19_5.png",
+                    "value": "Cemas"
+                }
+            ]
         },
         {
             "index": 20,
@@ -318,7 +796,21 @@
             "subscribers": 28000000,
             "views": 2626820,
             "url": "https://www.youtube.com/watch?v=ylUX9pfdBbs",
-            "thumbnail": "https://i.ytimg.com/vi/ylUX9pfdBbs/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/ylUX9pfdBbs/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/20_1.png",
+                    "value": "Marah"
+                },
+                {
+                    "img": "img/anotasi/20_2.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/20_3.png",
+                    "value": "Serius"
+                }
+            ]
         },
         {
             "index": 21,
@@ -334,7 +826,21 @@
             "subscribers": 528000,
             "views": 153624,
             "url": "https://www.youtube.com/watch?v=ptWAKTbmAws",
-            "thumbnail": "https://i.ytimg.com/vi/ptWAKTbmAws/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/ptWAKTbmAws/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/21_1.png",
+                    "value": "Bingung"
+                },
+                {
+                    "img": "img/anotasi/21_2.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/21_3.png",
+                    "value": "Frustasi"
+                }
+            ]
         },
         {
             "index": 22,
@@ -350,7 +856,21 @@
             "subscribers": 28000000,
             "views": 7842243,
             "url": "https://www.youtube.com/watch?v=uqcZUIUb7fk",
-            "thumbnail": "https://i.ytimg.com/vi/uqcZUIUb7fk/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/uqcZUIUb7fk/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/22_1.png",
+                    "value": "Frustasi"
+                },
+                {
+                    "img": "img/anotasi/22_2.png",
+                    "value": "Marah"
+                },
+                {
+                    "img": "img/anotasi/22_3.png",
+                    "value": "Senang"
+                }
+            ]
         },
         {
             "index": 23,
@@ -366,7 +886,25 @@
             "subscribers": 28000000,
             "views": 11219104,
             "url": "https://www.youtube.com/watch?v=VlM68GOkEUg",
-            "thumbnail": "https://i.ytimg.com/vi/VlM68GOkEUg/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/VlM68GOkEUg/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/23_1.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/23_2.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/23_3.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/23_4.png",
+                    "value": "Senang"
+                }
+            ]
         },
         {
             "index": 24,
@@ -382,7 +920,21 @@
             "subscribers": 28000000,
             "views": 11143391,
             "url": "https://www.youtube.com/watch?v=5LbFdY6vGsQ",
-            "thumbnail": "https://i.ytimg.com/vi/5LbFdY6vGsQ/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/5LbFdY6vGsQ/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/24_1.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/24_2.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/24_3.png",
+                    "value": "Senang"
+                }
+            ]
         },
         {
             "index": 25,
@@ -398,7 +950,25 @@
             "subscribers": 28000000,
             "views": 89935308,
             "url": "https://www.youtube.com/watch?v=0IpbvXVbBYA",
-            "thumbnail": "https://i.ytimg.com/vi/0IpbvXVbBYA/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/0IpbvXVbBYA/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/25_1.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/25_2.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/25_3.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/25_4.png",
+                    "value": "Senang"
+                }
+            ]
         },
         {
             "index": 26,
@@ -414,7 +984,17 @@
             "subscribers": 28000000,
             "views": 4875625,
             "url": "https://www.youtube.com/watch?v=fOxl2OIOVII",
-            "thumbnail": "https://i.ytimg.com/vi/fOxl2OIOVII/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/fOxl2OIOVII/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/26_1.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/26_2.png",
+                    "value": "Datar"
+                }
+            ]
         },
         {
             "index": 27,
@@ -430,7 +1010,21 @@
             "subscribers": 28000000,
             "views": 85622024,
             "url": "https://www.youtube.com/watch?v=Fc-fa6cAe2c",
-            "thumbnail": "https://i.ytimg.com/vi/Fc-fa6cAe2c/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/Fc-fa6cAe2c/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/27_1.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/27_2.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/27_3.png",
+                    "value": "Datar"
+                }
+            ]
         },
         {
             "index": 28,
@@ -446,7 +1040,37 @@
             "subscribers": 28000000,
             "views": 47731096,
             "url": "https://www.youtube.com/watch?v=Un7choIyl_g",
-            "thumbnail": "https://i.ytimg.com/vi/Un7choIyl_g/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/Un7choIyl_g/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/28_1.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/28_2.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/28_3.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/28_4.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/28_5.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/28_6.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/28_7.png",
+                    "value": "Senang"
+                }
+            ]
         },
         {
             "index": 29,
@@ -462,7 +1086,41 @@
             "subscribers": 28000000,
             "views": 98028460,
             "url": "https://www.youtube.com/watch?v=A5H8zBb3iao",
-            "thumbnail": "https://i.ytimg.com/vi/A5H8zBb3iao/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/A5H8zBb3iao/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/29_1.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/29_2.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/29_3.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/29_4.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/29_5.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/29_6.png",
+                    "value": "Cemas"
+                },
+                {
+                    "img": "img/anotasi/29_7.png",
+                    "value": "Cemas"
+                },
+                {
+                    "img": "img/anotasi/29_8.png",
+                    "value": "Serius"
+                }
+            ]
         },
         {
             "index": 30,
@@ -478,7 +1136,29 @@
             "subscribers": 28000000,
             "views": 2835170,
             "url": "https://www.youtube.com/watch?v=It8pe0WFHhk",
-            "thumbnail": "https://i.ytimg.com/vi/It8pe0WFHhk/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/It8pe0WFHhk/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/30_1.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/30_2.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/30_3.png",
+                    "value": "Jatuh Cinta"
+                },
+                {
+                    "img": "img/anotasi/30_4.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/30_5.png",
+                    "value": "Senang"
+                }
+            ]
         },
         {
             "index": 31,
@@ -494,7 +1174,33 @@
             "subscribers": 28000000,
             "views": 157048616,
             "url": "https://www.youtube.com/watch?v=ZeerrnuLi5E",
-            "thumbnail": "https://i.ytimg.com/vi/ZeerrnuLi5E/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/ZeerrnuLi5E/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/31_1.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/31_2.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/31_3.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/31_4.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/31_5.png",
+                    "value": "Bingung"
+                },
+                {
+                    "img": "img/anotasi/31_6.png",
+                    "value": "Senang"
+                }
+            ]
         },
         {
             "index": 32,
@@ -510,7 +1216,25 @@
             "subscribers": 528000,
             "views": 534562,
             "url": "https://www.youtube.com/watch?v=LvNUCqHvjeI",
-            "thumbnail": "https://i.ytimg.com/vi/LvNUCqHvjeI/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/LvNUCqHvjeI/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/32_1.png",
+                    "value": "Galau"
+                },
+                {
+                    "img": "img/anotasi/32_2.png",
+                    "value": "Galau"
+                },
+                {
+                    "img": "img/anotasi/32_3.png",
+                    "value": "Galau"
+                },
+                {
+                    "img": "img/anotasi/32_4.png",
+                    "value": "Galau"
+                }
+            ]
         },
         {
             "index": 33,
@@ -526,7 +1250,29 @@
             "subscribers": 28000000,
             "views": 51988007,
             "url": "https://www.youtube.com/watch?v=KUvOQlkLNhE",
-            "thumbnail": "https://i.ytimg.com/vi/KUvOQlkLNhE/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/KUvOQlkLNhE/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/33_1.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/33_2.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/33_3.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/33_4.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/33_5.png",
+                    "value": "Serius"
+                }
+            ]
         },
         {
             "index": 34,
@@ -542,7 +1288,49 @@
             "subscribers": 28000000,
             "views": 5244916,
             "url": "https://www.youtube.com/watch?v=RZrqrinmdks",
-            "thumbnail": "https://i.ytimg.com/vi/RZrqrinmdks/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/RZrqrinmdks/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/34_1.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/34_2.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/34_3.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/34_4.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/34_5.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/34_6.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/34_7.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/34_8.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/34_9.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/34_10.png",
+                    "value": "Senang"
+                }
+            ]
         },
         {
             "index": 35,
@@ -558,7 +1346,49 @@
             "subscribers": 528000,
             "views": 197418,
             "url": "https://www.youtube.com/watch?v=0Bar3VXF45U",
-            "thumbnail": "https://i.ytimg.com/vi/0Bar3VXF45U/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/0Bar3VXF45U/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/35_1.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/35_2.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/35_3.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/35_4.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/35_5.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/35_6.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/35_7.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/35_8.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/35_9.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/35_10.png",
+                    "value": "Datar"
+                }
+            ]
         },
         {
             "index": 36,
@@ -574,7 +1404,97 @@
             "subscribers": 28000000,
             "views": 59583331,
             "url": "https://www.youtube.com/watch?v=3p7s7Rjh4fg",
-            "thumbnail": "https://i.ytimg.com/vi/3p7s7Rjh4fg/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/3p7s7Rjh4fg/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/36_1.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/36_2.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/36_3.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/36_4.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/36_5.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/36_6.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/36_7.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/36_8.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/36_9.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/36_10.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/36_11.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/36_12.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/36_13.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/36_14.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/36_15.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/36_16.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/36_17.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/36_18.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/36_19.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/36_20.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/36_21.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/36_22.png",
+                    "value": "Senang"
+                }
+            ]
         },
         {
             "index": 37,
@@ -590,7 +1510,37 @@
             "subscribers": 28000000,
             "views": 10488920,
             "url": "https://www.youtube.com/watch?v=qJf8Ef4pqQk",
-            "thumbnail": "https://i.ytimg.com/vi/qJf8Ef4pqQk/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/qJf8Ef4pqQk/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/37_1.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/37_2.png",
+                    "value": "Sedih"
+                },
+                {
+                    "img": "img/anotasi/37_3.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/37_4.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/37_5.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/37_6.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/37_7.png",
+                    "value": "Sedih"
+                }
+            ]
         },
         {
             "index": 38,
@@ -606,7 +1556,37 @@
             "subscribers": 28000000,
             "views": 194788621,
             "url": "https://www.youtube.com/watch?v=tyrVtwE8Gv0",
-            "thumbnail": "https://i.ytimg.com/vi/tyrVtwE8Gv0/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/tyrVtwE8Gv0/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/38_1.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/38_2.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/38_3.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/38_4.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/38_5.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/38_6.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/38_7.png",
+                    "value": "Datar"
+                }
+            ]
         },
         {
             "index": 39,
@@ -622,7 +1602,21 @@
             "subscribers": 3840000,
             "views": 36192739,
             "url": "https://www.youtube.com/watch?v=0b-EatqUvb4",
-            "thumbnail": "https://i.ytimg.com/vi/0b-EatqUvb4/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/0b-EatqUvb4/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/39_1.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/39_2.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/39_3.png",
+                    "value": "Senang"
+                }
+            ]
         },
         {
             "index": 40,
@@ -638,7 +1632,61 @@
             "subscribers": 3840000,
             "views": 23608824,
             "url": "https://www.youtube.com/watch?v=QyKe4VXDx5I",
-            "thumbnail": "https://i.ytimg.com/vi/QyKe4VXDx5I/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/QyKe4VXDx5I/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/40_1.png",
+                    "value": "Bingung"
+                },
+                {
+                    "img": "img/anotasi/40_2.png",
+                    "value": "Bingung"
+                },
+                {
+                    "img": "img/anotasi/40_3.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/40_4.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/40_5.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/40_6.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/40_7.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/40_8.png",
+                    "value": "Bingung"
+                },
+                {
+                    "img": "img/anotasi/40_9.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/40_10.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/40_11.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/40_12.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/40_13.png",
+                    "value": "Senang"
+                }
+            ]
         },
         {
             "index": 41,
@@ -654,7 +1702,29 @@
             "subscribers": 28000000,
             "views": 1451247,
             "url": "https://www.youtube.com/watch?v=PS_K1Ypi8B0",
-            "thumbnail": "https://i.ytimg.com/vi/PS_K1Ypi8B0/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/PS_K1Ypi8B0/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/41_1.png",
+                    "value": "Sedih"
+                },
+                {
+                    "img": "img/anotasi/41_2.png",
+                    "value": "Galau"
+                },
+                {
+                    "img": "img/anotasi/41_3.png",
+                    "value": "Sedih"
+                },
+                {
+                    "img": "img/anotasi/41_4.png",
+                    "value": "Sedih"
+                },
+                {
+                    "img": "img/anotasi/41_5.png",
+                    "value": "Sedih"
+                }
+            ]
         },
         {
             "index": 42,
@@ -670,7 +1740,21 @@
             "subscribers": 28000000,
             "views": 4116395,
             "url": "https://www.youtube.com/watch?v=XT7Oh6vTY1Q",
-            "thumbnail": "https://i.ytimg.com/vi/XT7Oh6vTY1Q/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/XT7Oh6vTY1Q/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/42_1.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/42_2.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/42_3.png",
+                    "value": "Senang"
+                }
+            ]
         },
         {
             "index": 43,
@@ -686,7 +1770,29 @@
             "subscribers": 28000000,
             "views": 2391874,
             "url": "https://www.youtube.com/watch?v=IDMQQ88kjug",
-            "thumbnail": "https://i.ytimg.com/vi/IDMQQ88kjug/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/IDMQQ88kjug/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/43_1.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/43_2.png",
+                    "value": "Marah"
+                },
+                {
+                    "img": "img/anotasi/43_3.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/43_4.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/43_5.png",
+                    "value": "Datar"
+                }
+            ]
         },
         {
             "index": 44,
@@ -702,7 +1808,45 @@
             "subscribers": 28000000,
             "views": 30413563,
             "url": "https://www.youtube.com/watch?v=-MyvZMiRGvE",
-            "thumbnail": "https://i.ytimg.com/vi/-MyvZMiRGvE/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/-MyvZMiRGvE/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/44_1.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/44_2.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/44_3.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/44_4.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/44_5.png",
+                    "value": "Marah"
+                },
+                {
+                    "img": "img/anotasi/44_6.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/44_7.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/44_8.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/44_9.png",
+                    "value": "Serius"
+                }
+            ]
         },
         {
             "index": 45,
@@ -718,7 +1862,25 @@
             "subscribers": 28000000,
             "views": 28896673,
             "url": "https://www.youtube.com/watch?v=hFQL7BS6lrs",
-            "thumbnail": "https://i.ytimg.com/vi/hFQL7BS6lrs/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/hFQL7BS6lrs/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/45_1.png",
+                    "value": "Marah"
+                },
+                {
+                    "img": "img/anotasi/45_2.png",
+                    "value": "Marah"
+                },
+                {
+                    "img": "img/anotasi/45_3.png",
+                    "value": "Takut"
+                },
+                {
+                    "img": "img/anotasi/45_4.png",
+                    "value": "Marah"
+                }
+            ]
         },
         {
             "index": 46,
@@ -734,7 +1896,33 @@
             "subscribers": 28000000,
             "views": 3091490,
             "url": "https://www.youtube.com/watch?v=f5uu30E_tL0",
-            "thumbnail": "https://i.ytimg.com/vi/f5uu30E_tL0/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/f5uu30E_tL0/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/46_1.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/46_2.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/46_3.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/46_4.png",
+                    "value": "Marah"
+                },
+                {
+                    "img": "img/anotasi/46_5.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/46_6.png",
+                    "value": "Datar"
+                }
+            ]
         },
         {
             "index": 47,
@@ -750,7 +1938,45 @@
             "subscribers": 28000000,
             "views": 51318269,
             "url": "https://www.youtube.com/watch?v=jUsUzbmSLow",
-            "thumbnail": "https://i.ytimg.com/vi/jUsUzbmSLow/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/jUsUzbmSLow/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/47_1.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/47_2.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/47_3.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/47_4.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/47_5.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/47_6.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/47_7.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/47_8.png",
+                    "value": "Marah"
+                },
+                {
+                    "img": "img/anotasi/47_9.png",
+                    "value": "Marah"
+                }
+            ]
         },
         {
             "index": 48,
@@ -766,7 +1992,33 @@
             "subscribers": 528000,
             "views": 7004977,
             "url": "https://www.youtube.com/watch?v=BxZVxFGTQNU",
-            "thumbnail": "https://i.ytimg.com/vi/BxZVxFGTQNU/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/BxZVxFGTQNU/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/48_1.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/48_2.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/48_3.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/48_4.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/48_5.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/48_6.png",
+                    "value": "Senang"
+                }
+            ]
         },
         {
             "index": 49,
@@ -782,7 +2034,41 @@
             "subscribers": 28000000,
             "views": 25994689,
             "url": "https://www.youtube.com/watch?v=nyzhtvtJWDQ",
-            "thumbnail": "https://i.ytimg.com/vi/nyzhtvtJWDQ/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/nyzhtvtJWDQ/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/49_1.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/49_2.png",
+                    "value": "Marah"
+                },
+                {
+                    "img": "img/anotasi/49_3.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/49_4.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/49_5.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/49_6.png",
+                    "value": "Marah"
+                },
+                {
+                    "img": "img/anotasi/49_7.png",
+                    "value": "Marah"
+                },
+                {
+                    "img": "img/anotasi/49_8.png",
+                    "value": "Senang"
+                }
+            ]
         },
         {
             "index": 50,
@@ -798,7 +2084,37 @@
             "subscribers": 28000000,
             "views": 7873547,
             "url": "https://www.youtube.com/watch?v=7UZRHi0kh3c",
-            "thumbnail": "https://i.ytimg.com/vi/7UZRHi0kh3c/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/7UZRHi0kh3c/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/50_1.png",
+                    "value": "Cemas"
+                },
+                {
+                    "img": "img/anotasi/50_2.png",
+                    "value": "Marah"
+                },
+                {
+                    "img": "img/anotasi/50_3.png",
+                    "value": "Cemas"
+                },
+                {
+                    "img": "img/anotasi/50_4.png",
+                    "value": "Sedih"
+                },
+                {
+                    "img": "img/anotasi/50_5.png",
+                    "value": "Marah"
+                },
+                {
+                    "img": "img/anotasi/50_6.png",
+                    "value": "Frustasi"
+                },
+                {
+                    "img": "img/anotasi/50_7.png",
+                    "value": "Frustasi"
+                }
+            ]
         },
         {
             "index": 51,
@@ -814,7 +2130,25 @@
             "subscribers": 528000,
             "views": 3336090,
             "url": "https://www.youtube.com/watch?v=ddu8Lo4c4jU",
-            "thumbnail": "https://i.ytimg.com/vi/ddu8Lo4c4jU/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/ddu8Lo4c4jU/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/51_1.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/51_2.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/51_3.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/51_4.png",
+                    "value": "Serius"
+                }
+            ]
         },
         {
             "index": 52,
@@ -830,7 +2164,21 @@
             "subscribers": 28000000,
             "views": 1114713,
             "url": "https://www.youtube.com/watch?v=EBg958rj4dg",
-            "thumbnail": "https://i.ytimg.com/vi/EBg958rj4dg/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/EBg958rj4dg/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/52_1.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/52_2.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/52_3.png",
+                    "value": "Serius"
+                }
+            ]
         },
         {
             "index": 53,
@@ -846,7 +2194,45 @@
             "subscribers": 28000000,
             "views": 19334506,
             "url": "https://www.youtube.com/watch?v=sB2YVGPPXW0",
-            "thumbnail": "https://i.ytimg.com/vi/sB2YVGPPXW0/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/sB2YVGPPXW0/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/53_1.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/53_2.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/53_3.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/53_4.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/53_5.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/53_6.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/53_7.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/53_8.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/53_9.png",
+                    "value": "Senang"
+                }
+            ]
         },
         {
             "index": 54,
@@ -862,7 +2248,21 @@
             "subscribers": 28000000,
             "views": 1858714,
             "url": "https://www.youtube.com/watch?v=B3Z3t6Ct1N8",
-            "thumbnail": "https://i.ytimg.com/vi/B3Z3t6Ct1N8/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/B3Z3t6Ct1N8/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/54_1.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/54_2.png",
+                    "value": "Sedih"
+                },
+                {
+                    "img": "img/anotasi/54_3.png",
+                    "value": "Serius"
+                }
+            ]
         },
         {
             "index": 55,
@@ -878,7 +2278,41 @@
             "subscribers": 28000000,
             "views": 45263342,
             "url": "https://www.youtube.com/watch?v=4VmLuWDkHYQ",
-            "thumbnail": "https://i.ytimg.com/vi/4VmLuWDkHYQ/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/4VmLuWDkHYQ/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/55_1.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/55_2.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/55_3.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/55_4.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/55_5.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/55_6.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/55_7.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/55_8.png",
+                    "value": "Serius"
+                }
+            ]
         },
         {
             "index": 56,
@@ -894,7 +2328,21 @@
             "subscribers": 4120000,
             "views": 14682942,
             "url": "https://www.youtube.com/watch?v=wCWoUUWwdqg",
-            "thumbnail": "https://i.ytimg.com/vi/wCWoUUWwdqg/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/wCWoUUWwdqg/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/56_1.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/56_2.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/56_3.png",
+                    "value": "Serius"
+                }
+            ]
         },
         {
             "index": 57,
@@ -910,7 +2358,21 @@
             "subscribers": 28000000,
             "views": 572874,
             "url": "https://www.youtube.com/watch?v=mksIOklErKk",
-            "thumbnail": "https://i.ytimg.com/vi/mksIOklErKk/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/mksIOklErKk/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/57_1.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/57_2.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/57_3.png",
+                    "value": "Serius"
+                }
+            ]
         },
         {
             "index": 58,
@@ -926,7 +2388,29 @@
             "subscribers": 28000000,
             "views": 18793522,
             "url": "https://www.youtube.com/watch?v=9sLaT9eHAYQ",
-            "thumbnail": "https://i.ytimg.com/vi/9sLaT9eHAYQ/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/9sLaT9eHAYQ/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/58_1.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/58_2.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/58_3.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/58_4.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/58_5.png",
+                    "value": "Senang"
+                }
+            ]
         },
         {
             "index": 59,
@@ -942,7 +2426,21 @@
             "subscribers": 8070000,
             "views": 11941781,
             "url": "https://www.youtube.com/watch?v=6SbXGBC7GU4",
-            "thumbnail": "https://i.ytimg.com/vi/6SbXGBC7GU4/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/6SbXGBC7GU4/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/59_1.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/59_2.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/59_3.png",
+                    "value": "Datar"
+                }
+            ]
         },
         {
             "index": 60,
@@ -958,7 +2456,21 @@
             "subscribers": 8070000,
             "views": 11132323,
             "url": "https://www.youtube.com/watch?v=yClGpsAUm84",
-            "thumbnail": "https://i.ytimg.com/vi/yClGpsAUm84/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/yClGpsAUm84/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/60_1.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/60_2.png",
+                    "value": "Sedih"
+                },
+                {
+                    "img": "img/anotasi/60_3.png",
+                    "value": "Sedih"
+                }
+            ]
         },
         {
             "index": 61,
@@ -974,7 +2486,29 @@
             "subscribers": 28000000,
             "views": 102022665,
             "url": "https://www.youtube.com/watch?v=Ujb-gvqsoi0",
-            "thumbnail": "https://i.ytimg.com/vi/Ujb-gvqsoi0/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/Ujb-gvqsoi0/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/61_1.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/61_2.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/61_3.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/61_4.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/61_5.png",
+                    "value": "Serius"
+                }
+            ]
         },
         {
             "index": 62,
@@ -990,7 +2524,29 @@
             "subscribers": 28000000,
             "views": 17056838,
             "url": "https://www.youtube.com/watch?v=5Lw38CVAVxw",
-            "thumbnail": "https://i.ytimg.com/vi/5Lw38CVAVxw/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/5Lw38CVAVxw/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/62_1.png",
+                    "value": "Cemas"
+                },
+                {
+                    "img": "img/anotasi/62_2.png",
+                    "value": "Cemas"
+                },
+                {
+                    "img": "img/anotasi/62_3.png",
+                    "value": "Galau"
+                },
+                {
+                    "img": "img/anotasi/62_4.png",
+                    "value": "Marah"
+                },
+                {
+                    "img": "img/anotasi/62_5.png",
+                    "value": "Kaget"
+                }
+            ]
         },
         {
             "index": 63,
@@ -1006,7 +2562,29 @@
             "subscribers": 28000000,
             "views": 35673822,
             "url": "https://www.youtube.com/watch?v=eUCVRF6hjSQ",
-            "thumbnail": "https://i.ytimg.com/vi/eUCVRF6hjSQ/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/eUCVRF6hjSQ/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/63_1.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/63_2.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/63_3.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/63_4.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/63_5.png",
+                    "value": "Datar"
+                }
+            ]
         },
         {
             "index": 64,
@@ -1022,7 +2600,25 @@
             "subscribers": 28000000,
             "views": 4578616,
             "url": "https://www.youtube.com/watch?v=n0LZmB2UjxA",
-            "thumbnail": "https://i.ytimg.com/vi/n0LZmB2UjxA/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/n0LZmB2UjxA/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/64_1.png",
+                    "value": "Sedih"
+                },
+                {
+                    "img": "img/anotasi/64_2.png",
+                    "value": "Sedih"
+                },
+                {
+                    "img": "img/anotasi/64_3.png",
+                    "value": "Sedih"
+                },
+                {
+                    "img": "img/anotasi/64_4.png",
+                    "value": "Sedih"
+                }
+            ]
         },
         {
             "index": 65,
@@ -1038,7 +2634,21 @@
             "subscribers": 28000000,
             "views": 63654370,
             "url": "https://www.youtube.com/watch?v=gmgcRWxhmqY",
-            "thumbnail": "https://i.ytimg.com/vi/gmgcRWxhmqY/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/gmgcRWxhmqY/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/65_1.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/65_2.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/65_3.png",
+                    "value": "Senang"
+                }
+            ]
         },
         {
             "index": 66,
@@ -1054,7 +2664,41 @@
             "subscribers": 28000000,
             "views": 39302896,
             "url": "https://www.youtube.com/watch?v=U08OSl3V4po",
-            "thumbnail": "https://i.ytimg.com/vi/U08OSl3V4po/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/U08OSl3V4po/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/66_1.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/66_2.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/66_3.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/66_4.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/66_5.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/66_6.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/66_7.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/66_8.png",
+                    "value": "Datar"
+                }
+            ]
         },
         {
             "index": 67,
@@ -1070,7 +2714,37 @@
             "subscribers": 28000000,
             "views": 44289219,
             "url": "https://www.youtube.com/watch?v=N2dsnGc7TFk",
-            "thumbnail": "https://i.ytimg.com/vi/N2dsnGc7TFk/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/N2dsnGc7TFk/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/67_1.png",
+                    "value": "Sedih"
+                },
+                {
+                    "img": "img/anotasi/67_2.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/67_3.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/67_4.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/67_5.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/67_6.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/67_7.png",
+                    "value": "Galau"
+                }
+            ]
         },
         {
             "index": 68,
@@ -1086,7 +2760,41 @@
             "subscribers": 28000000,
             "views": 10562279,
             "url": "https://www.youtube.com/watch?v=Raj-AuQgCTg",
-            "thumbnail": "https://i.ytimg.com/vi/Raj-AuQgCTg/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/Raj-AuQgCTg/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/68_1.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/68_2.png",
+                    "value": "Galau"
+                },
+                {
+                    "img": "img/anotasi/68_3.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/68_4.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/68_5.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/68_6.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/68_7.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/68_8.png",
+                    "value": "Senang"
+                }
+            ]
         },
         {
             "index": 69,
@@ -1102,7 +2810,37 @@
             "subscribers": 28000000,
             "views": 65949569,
             "url": "https://www.youtube.com/watch?v=vofjeJvRT9c",
-            "thumbnail": "https://i.ytimg.com/vi/vofjeJvRT9c/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/vofjeJvRT9c/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/69_1.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/69_2.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/69_3.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/69_4.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/69_5.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/69_6.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/69_7.png",
+                    "value": "Serius"
+                }
+            ]
         },
         {
             "index": 70,
@@ -1118,7 +2856,37 @@
             "subscribers": 28000000,
             "views": 5766616,
             "url": "https://www.youtube.com/watch?v=-sKqPjhSiq0",
-            "thumbnail": "https://i.ytimg.com/vi/-sKqPjhSiq0/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/-sKqPjhSiq0/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/70_1.png",
+                    "value": "Takut"
+                },
+                {
+                    "img": "img/anotasi/70_2.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/70_3.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/70_4.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/70_5.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/70_6.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/70_7.png",
+                    "value": "Datar"
+                }
+            ]
         },
         {
             "index": 71,
@@ -1134,7 +2902,45 @@
             "subscribers": 28000000,
             "views": 12597851,
             "url": "https://www.youtube.com/watch?v=Ygrv55VRRas",
-            "thumbnail": "https://i.ytimg.com/vi/Ygrv55VRRas/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/Ygrv55VRRas/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/71_1.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/71_2.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/71_3.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/71_4.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/71_5.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/71_6.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/71_7.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/71_8.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/71_9.png",
+                    "value": "Datar"
+                }
+            ]
         },
         {
             "index": 72,
@@ -1150,7 +2956,57 @@
             "subscribers": 28000000,
             "views": 124983071,
             "url": "https://www.youtube.com/watch?v=2OvyA2__Eas",
-            "thumbnail": "https://i.ytimg.com/vi/2OvyA2__Eas/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/2OvyA2__Eas/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/72_1.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/72_2.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/72_3.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/72_4.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/72_5.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/72_6.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/72_7.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/72_8.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/72_9.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/72_10.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/72_11.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/72_12.png",
+                    "value": "Datar"
+                }
+            ]
         },
         {
             "index": 73,
@@ -1166,7 +3022,25 @@
             "subscribers": 28000000,
             "views": 1293351,
             "url": "https://www.youtube.com/watch?v=r2dAhHvbhI4",
-            "thumbnail": "https://i.ytimg.com/vi/r2dAhHvbhI4/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/r2dAhHvbhI4/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/73_1.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/73_2.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/73_3.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/73_4.png",
+                    "value": "Serius"
+                }
+            ]
         },
         {
             "index": 74,
@@ -1182,7 +3056,41 @@
             "subscribers": 28000000,
             "views": 19017055,
             "url": "https://www.youtube.com/watch?v=Uqi34thogl4",
-            "thumbnail": "https://i.ytimg.com/vi/Uqi34thogl4/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/Uqi34thogl4/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/74_1.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/74_2.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/74_3.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/74_4.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/74_5.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/74_6.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/74_7.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/74_8.png",
+                    "value": "Serius"
+                }
+            ]
         },
         {
             "index": 75,
@@ -1198,7 +3106,25 @@
             "subscribers": 28000000,
             "views": 5903598,
             "url": "https://www.youtube.com/watch?v=bho0m505qVA",
-            "thumbnail": "https://i.ytimg.com/vi/bho0m505qVA/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/bho0m505qVA/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/75_1.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/75_2.png",
+                    "value": "Galau"
+                },
+                {
+                    "img": "img/anotasi/75_3.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/75_4.png",
+                    "value": "Datar"
+                }
+            ]
         },
         {
             "index": 76,
@@ -1214,7 +3140,21 @@
             "subscribers": 4120000,
             "views": 84892783,
             "url": "https://www.youtube.com/watch?v=Z7yNvMzz2zg",
-            "thumbnail": "https://i.ytimg.com/vi/Z7yNvMzz2zg/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/Z7yNvMzz2zg/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/76_1.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/76_2.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/76_3.png",
+                    "value": "Serius"
+                }
+            ]
         },
         {
             "index": 77,
@@ -1230,7 +3170,33 @@
             "subscribers": 28000000,
             "views": 281849413,
             "url": "https://www.youtube.com/watch?v=uR8Mrt1IpXg",
-            "thumbnail": "https://i.ytimg.com/vi/uR8Mrt1IpXg/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/uR8Mrt1IpXg/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/77_1.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/77_2.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/77_3.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/77_4.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/77_5.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/77_6.png",
+                    "value": "Datar"
+                }
+            ]
         },
         {
             "index": 78,
@@ -1246,7 +3212,29 @@
             "subscribers": 28000000,
             "views": 7894420,
             "url": "https://www.youtube.com/watch?v=57sYinArEC4",
-            "thumbnail": "https://i.ytimg.com/vi/57sYinArEC4/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/57sYinArEC4/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/78_1.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/78_2.png",
+                    "value": "Sedih"
+                },
+                {
+                    "img": "img/anotasi/78_3.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/78_4.png",
+                    "value": "Galau"
+                },
+                {
+                    "img": "img/anotasi/78_5.png",
+                    "value": "Senang"
+                }
+            ]
         },
         {
             "index": 79,
@@ -1262,7 +3250,25 @@
             "subscribers": 28000000,
             "views": 937052,
             "url": "https://www.youtube.com/watch?v=u3ZYUsd1vRU",
-            "thumbnail": "https://i.ytimg.com/vi/u3ZYUsd1vRU/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/u3ZYUsd1vRU/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/79_1.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/79_2.png",
+                    "value": "Marah"
+                },
+                {
+                    "img": "img/anotasi/79_3.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/79_4.png",
+                    "value": "Senang"
+                }
+            ]
         },
         {
             "index": 80,
@@ -1278,7 +3284,41 @@
             "subscribers": 28000000,
             "views": 137687360,
             "url": "https://www.youtube.com/watch?v=uxmP4b2a0uY",
-            "thumbnail": "https://i.ytimg.com/vi/uxmP4b2a0uY/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/uxmP4b2a0uY/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/80_1.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/80_2.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/80_3.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/80_4.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/80_5.png",
+                    "value": "Marah"
+                },
+                {
+                    "img": "img/anotasi/80_6.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/80_7.png",
+                    "value": "Marah"
+                },
+                {
+                    "img": "img/anotasi/80_8.png",
+                    "value": "Serius"
+                }
+            ]
         },
         {
             "index": 81,
@@ -1294,7 +3334,61 @@
             "subscribers": 28000000,
             "views": 1232061,
             "url": "https://www.youtube.com/watch?v=5o4IiGiU6_4",
-            "thumbnail": "https://i.ytimg.com/vi/5o4IiGiU6_4/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/5o4IiGiU6_4/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/81_1.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/81_2.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/81_3.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/81_4.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/81_5.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/81_6.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/81_7.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/81_8.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/81_9.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/81_10.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/81_11.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/81_12.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/81_13.png",
+                    "value": "Senang"
+                }
+            ]
         },
         {
             "index": 82,
@@ -1310,7 +3404,25 @@
             "subscribers": 28000000,
             "views": 32673548,
             "url": "https://www.youtube.com/watch?v=eP4ga_fNm-E",
-            "thumbnail": "https://i.ytimg.com/vi/eP4ga_fNm-E/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/eP4ga_fNm-E/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/82_1.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/82_2.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/82_3.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/82_4.png",
+                    "value": "Datar"
+                }
+            ]
         },
         {
             "index": 83,
@@ -1326,7 +3438,49 @@
             "subscribers": 28000000,
             "views": 17091753,
             "url": "https://www.youtube.com/watch?v=UsaGgEjqNoE",
-            "thumbnail": "https://i.ytimg.com/vi/UsaGgEjqNoE/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/UsaGgEjqNoE/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/83_1.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/83_2.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/83_3.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/83_4.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/83_5.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/83_6.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/83_7.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/83_8.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/83_9.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/83_10.png",
+                    "value": "Datar"
+                }
+            ]
         },
         {
             "index": 84,
@@ -1342,7 +3496,37 @@
             "subscribers": 28000000,
             "views": 54192783,
             "url": "https://www.youtube.com/watch?v=N5qWjQ9j6l0",
-            "thumbnail": "https://i.ytimg.com/vi/N5qWjQ9j6l0/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/N5qWjQ9j6l0/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/84_1.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/84_2.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/84_3.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/84_4.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/84_5.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/84_6.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/84_7.png",
+                    "value": "Cemas"
+                }
+            ]
         },
         {
             "index": 85,
@@ -1358,7 +3542,57 @@
             "subscribers": 28000000,
             "views": 30990865,
             "url": "https://www.youtube.com/watch?v=9yimV9i-dY0",
-            "thumbnail": "https://i.ytimg.com/vi/9yimV9i-dY0/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/9yimV9i-dY0/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/85_1.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/85_2.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/85_3.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/85_4.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/85_5.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/85_6.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/85_7.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/85_8.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/85_9.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/85_10.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/85_11.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/85_12.png",
+                    "value": "Senang"
+                }
+            ]
         },
         {
             "index": 86,
@@ -1374,7 +3608,37 @@
             "subscribers": 28000000,
             "views": 101532505,
             "url": "https://www.youtube.com/watch?v=pAnK1y7qjuE",
-            "thumbnail": "https://i.ytimg.com/vi/pAnK1y7qjuE/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/pAnK1y7qjuE/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/86_1.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/86_2.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/86_3.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/86_4.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/86_5.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/86_6.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/86_7.png",
+                    "value": "Datar"
+                }
+            ]
         },
         {
             "index": 87,
@@ -1390,7 +3654,21 @@
             "subscribers": 28000000,
             "views": 9622178,
             "url": "https://www.youtube.com/watch?v=AO1OqWwKj1A",
-            "thumbnail": "https://i.ytimg.com/vi/AO1OqWwKj1A/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/AO1OqWwKj1A/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/87_1.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/87_2.png",
+                    "value": "Jatuh Cinta"
+                },
+                {
+                    "img": "img/anotasi/87_3.png",
+                    "value": "Serius"
+                }
+            ]
         },
         {
             "index": 88,
@@ -1406,7 +3684,57 @@
             "subscribers": 28000000,
             "views": 14595080,
             "url": "https://www.youtube.com/watch?v=CbFh06IpSwA",
-            "thumbnail": "https://i.ytimg.com/vi/CbFh06IpSwA/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/CbFh06IpSwA/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/88_1.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/88_2.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/88_3.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/88_4.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/88_5.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/88_6.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/88_7.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/88_8.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/88_9.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/88_10.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/88_11.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/88_12.png",
+                    "value": "Datar"
+                }
+            ]
         },
         {
             "index": 89,
@@ -1422,7 +3750,61 @@
             "subscribers": 28000000,
             "views": 43938161,
             "url": "https://www.youtube.com/watch?v=vHS9E6JFja8",
-            "thumbnail": "https://i.ytimg.com/vi/vHS9E6JFja8/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/vHS9E6JFja8/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/89_1.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/89_2.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/89_3.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/89_4.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/89_5.png",
+                    "value": "Marah"
+                },
+                {
+                    "img": "img/anotasi/89_6.png",
+                    "value": "Sedih"
+                },
+                {
+                    "img": "img/anotasi/89_7.png",
+                    "value": "Sedih"
+                },
+                {
+                    "img": "img/anotasi/89_8.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/89_9.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/89_10.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/89_11.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/89_12.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/89_13.png",
+                    "value": "Sedih"
+                }
+            ]
         },
         {
             "index": 90,
@@ -1438,7 +3820,21 @@
             "subscribers": 28000000,
             "views": 2369672,
             "url": "https://www.youtube.com/watch?v=nIONbXLkA1g",
-            "thumbnail": "https://i.ytimg.com/vi/nIONbXLkA1g/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/nIONbXLkA1g/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/90_1.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/90_2.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/90_3.png",
+                    "value": "Datar"
+                }
+            ]
         },
         {
             "index": 91,
@@ -1454,7 +3850,53 @@
             "subscribers": 4120000,
             "views": 4586719,
             "url": "https://www.youtube.com/watch?v=PDy_i0UvAOI",
-            "thumbnail": "https://i.ytimg.com/vi/PDy_i0UvAOI/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/PDy_i0UvAOI/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/91_1.png",
+                    "value": "Sedih"
+                },
+                {
+                    "img": "img/anotasi/91_2.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/91_3.png",
+                    "value": "Takut"
+                },
+                {
+                    "img": "img/anotasi/91_4.png",
+                    "value": "Kaget"
+                },
+                {
+                    "img": "img/anotasi/91_5.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/91_6.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/91_7.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/91_8.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/91_9.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/91_10.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/91_11.png",
+                    "value": "Sedih"
+                }
+            ]
         },
         {
             "index": 92,
@@ -1470,7 +3912,41 @@
             "subscribers": 28000000,
             "views": 118836679,
             "url": "https://www.youtube.com/watch?v=X-iJZ0gfKPo",
-            "thumbnail": "https://i.ytimg.com/vi/X-iJZ0gfKPo/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/X-iJZ0gfKPo/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/92_1.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/92_2.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/92_3.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/92_4.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/92_5.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/92_6.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/92_7.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/92_8.png",
+                    "value": "Serius"
+                }
+            ]
         },
         {
             "index": 93,
@@ -1486,7 +3962,25 @@
             "subscribers": 28000000,
             "views": 7472273,
             "url": "https://www.youtube.com/watch?v=GjO4inIuPZo",
-            "thumbnail": "https://i.ytimg.com/vi/GjO4inIuPZo/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/GjO4inIuPZo/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/93_1.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/93_2.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/93_3.png",
+                    "value": "Jatuh Cinta"
+                },
+                {
+                    "img": "img/anotasi/93_4.png",
+                    "value": "Datar"
+                }
+            ]
         },
         {
             "index": 94,
@@ -1502,7 +3996,29 @@
             "subscribers": 28000000,
             "views": 29748336,
             "url": "https://www.youtube.com/watch?v=AtNBhPxVwh0",
-            "thumbnail": "https://i.ytimg.com/vi/AtNBhPxVwh0/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/AtNBhPxVwh0/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/94_1.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/94_2.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/94_3.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/94_4.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/94_5.png",
+                    "value": "Senang"
+                }
+            ]
         },
         {
             "index": 95,
@@ -1518,7 +4034,61 @@
             "subscribers": 28000000,
             "views": 37822821,
             "url": "https://www.youtube.com/watch?v=iFoqGyWhMws",
-            "thumbnail": "https://i.ytimg.com/vi/iFoqGyWhMws/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/iFoqGyWhMws/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/95_1.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/95_2.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/95_3.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/95_4.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/95_5.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/95_6.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/95_7.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/95_8.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/95_9.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/95_10.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/95_11.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/95_12.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/95_13.png",
+                    "value": "Senang"
+                }
+            ]
         },
         {
             "index": 96,
@@ -1534,7 +4104,21 @@
             "subscribers": 28000000,
             "views": 4791029,
             "url": "https://www.youtube.com/watch?v=SKAsHxi1Tlc",
-            "thumbnail": "https://i.ytimg.com/vi/SKAsHxi1Tlc/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/SKAsHxi1Tlc/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/96_1.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/96_2.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/96_3.png",
+                    "value": "Serius"
+                }
+            ]
         },
         {
             "index": 97,
@@ -1550,7 +4134,21 @@
             "subscribers": 28000000,
             "views": 18463488,
             "url": "https://www.youtube.com/watch?v=SvV49SD99DY",
-            "thumbnail": "https://i.ytimg.com/vi/SvV49SD99DY/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/SvV49SD99DY/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/97_1.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/97_2.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/97_3.png",
+                    "value": "Datar"
+                }
+            ]
         },
         {
             "index": 98,
@@ -1566,7 +4164,21 @@
             "subscribers": 28000000,
             "views": 43552353,
             "url": "https://www.youtube.com/watch?v=-EfjXQgE1e8",
-            "thumbnail": "https://i.ytimg.com/vi/-EfjXQgE1e8/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/-EfjXQgE1e8/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/98_1.png",
+                    "value": "Serius"
+                },
+                {
+                    "img": "img/anotasi/98_2.png",
+                    "value": "Datar"
+                },
+                {
+                    "img": "img/anotasi/98_3.png",
+                    "value": "Serius"
+                }
+            ]
         },
         {
             "index": 99,
@@ -1582,7 +4194,21 @@
             "subscribers": 28000000,
             "views": 23502904,
             "url": "https://www.youtube.com/watch?v=j2aQ_NqeTNw",
-            "thumbnail": "https://i.ytimg.com/vi/j2aQ_NqeTNw/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/j2aQ_NqeTNw/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/99_1.png",
+                    "value": "Kaget"
+                },
+                {
+                    "img": "img/anotasi/99_2.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/99_3.png",
+                    "value": "Senang"
+                }
+            ]
         },
         {
             "index": 100,
@@ -1598,7 +4224,17 @@
             "subscribers": 28000000,
             "views": 16071082,
             "url": "https://www.youtube.com/watch?v=P5uE7KDkDFE",
-            "thumbnail": "https://i.ytimg.com/vi/P5uE7KDkDFE/hqdefault.jpg"
+            "thumbnail": "https://i.ytimg.com/vi/P5uE7KDkDFE/hqdefault.jpg",
+            "anotasi": [
+                {
+                    "img": "img/anotasi/100_1.png",
+                    "value": "Senang"
+                },
+                {
+                    "img": "img/anotasi/100_2.png",
+                    "value": "Senang"
+                }
+            ]
         }
     ]
 }
