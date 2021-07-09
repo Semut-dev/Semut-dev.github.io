@@ -1,0 +1,241 @@
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript">
+
+      // Load Charts and the corechart package.
+      google.charts.load('current', {'packages':['corechart']});
+      google.charts.load('current', {'packages':['bar']});
+
+      // Draw the pie chart for Sarah's pizza when Charts is loaded.
+      //google.charts.setOnLoadCallback(drawSarahChart);
+
+      // Draw the pie chart for the Anthony's pizza when Charts is loaded.
+      //google.charts.setOnLoadCallback(drawAnthonyChart);
+
+      //google.charts.setOnLoadCallback(drawBarChart);
+
+      //google.charts.setOnLoadCallback(drawLineChart);
+
+      google.charts.setOnLoadCallback(drawColumnChart);
+
+      var request = new XMLHttpRequest();
+        request.open("GET", "./data.json", false);
+        request.send(null)
+        var obj = JSON.parse(request.responseText);
+
+      // Callback that draws the pie chart for Sarah's pizza.
+      function drawSarahChart() {
+
+        var count = [0,0,0,0,0];
+        
+        for(var i = 0; i < obj.length; i++)
+        {
+          if(obj[i]['Net Worth'] >= 200)
+            count[0] += 1;
+          else if(obj[i]['Net Worth'] >= 150 && obj[i]['Net Worth'] < 200)
+            count[1] += 1;
+          else if(obj[i]['Net Worth'] >= 100 && obj[i]['Net Worth'] < 150)
+            count[2] += 1;
+          else if(obj[i]['Net Worth'] >= 50 && obj[i]['Net Worth'] < 150)
+            count[3] += 1;
+          else if(obj[i]['Net Worth'] < 50)
+            count[4] += 1;
+        }
+        
+        // Create the data table for Sarah's pizza.
+        var data = new google.visualization.DataTable();
+        data.addColumn('string', 'Topping');
+        data.addColumn('number', 'Slices');
+        data.addRows([
+          ['New Worth >= 200 Billion', count[0]],
+          ['150 =< Net Worth < 200', count[1]],
+          ['100 =< Net Worth < 150', count[2]],
+          ['50 =< Net Worth < 150', count[3]],
+          ['Net Worth < 50', count[4]]
+        ]);
+
+        // Set options for Sarah's pie chart.
+        var options = {title:'How Much Pizza Sarah Ate Last Night',
+                       width:600,
+                       height:400};
+
+        // Instantiate and draw the chart for Sarah's pizza.
+        var chart = new google.visualization.PieChart(document.getElementById('Sarah_chart_div'));
+        chart.draw(data, options);
+      }
+
+      // Callback that draws the pie chart for Anthony's pizza.
+      function drawAnthonyChart() {
+
+        // Create the data table for Anthony's pizza.
+        var data = new google.visualization.DataTable();
+        data.addColumn('string', 'Topping');
+        data.addColumn('number', 'Slices');
+        data.addRows([
+          ['Mushrooms', 2],
+          ['Onions', 2],
+          ['Olives', 2],
+          ['Zucchini', 0],
+          ['Pepperoni', 3]
+        ]);
+
+        // Set options for Anthony's pie chart.
+        var options = {title:'How Much Pizza Anthony Ate Last Night',
+                       width:600,
+                       height:400};
+
+        // Instantiate and draw the chart for Anthony's pizza.
+        var chart = new google.visualization.PieChart(document.getElementById('Anthony_chart_div'));
+        chart.draw(data, options);
+      }
+
+      function drawBarChart() {
+        var videos = {}
+
+        // looping setiap video
+       for(var i = 0; i < obj.videos.length; i++)
+       {
+         videos[obj.videos[i].title] = obj.videos[i].anotasi.length
+       }
+
+       console.log(videos)
+
+       for(var video in videos)
+      {
+        console.log(typeof(video))
+      }
+
+        var data = new google.visualization.DataTable();
+        data.addColumn('string', 'Title');
+        data.addColumn('string', 'AmountExpression');
+
+        
+
+        var options = {
+          title: 'Top 10 Celebrities',
+          width: 600,
+          height : 400,
+          legend: { position: 'none' },
+          chart: { title: 'Top 10 Celebrities',
+                   subtitle: 'Most Net Worth' },
+          bars: 'horizontal', // Required for Material Bar Charts.
+          axes: {
+            x: {
+              0: { side: 'Person', label: 'Net Worth'} // Top x-axis.
+            }
+          },
+          bar: { groupWidth: "60%" }
+        };
+
+        var chart = new google.charts.Bar(document.getElementById('bar_chart_div'));
+        chart.draw(data, options);
+      };
+
+
+      // Chart Coloumn untuk ekpresi
+      function drawColumnChart() {
+
+        var ekspresi = {}
+        
+       // looping setiap video
+       for(var i = 0; i < obj.videos.length; i++)
+       {
+         // looping setiap array anotasi
+          for(var j = 0; j < obj.videos[i].anotasi.length; j++)
+          {
+               if(ekspresi[obj.videos[i].anotasi[j].value] == undefined)
+                 ekspresi[obj.videos[i].anotasi[j].value] = 1
+               else
+                 ekspresi[obj.videos[i].anotasi[j].value]++
+          }
+       }
+
+       var data = new google.visualization.DataTable();
+        data.addColumn('string', 'ekspresi')
+        data.addColumn('number', 'Amount');
+
+        //data.addRows(Object.entries(ekspresi))
+        data.addRows([
+            ['Senang', ekspresi.Senang],
+            ['Sedih', ekspresi.Sedih]
+        ]);
+
+        var options = {
+          width: 600,
+          height: 400,
+          legend: { position: 'none' },
+          chart: {
+            title: 'Ekpresi',
+            subtitle: 'Jumlah Ekspresi pada setiap video' },
+          axes: {
+            x: {
+              0: { side: 'Ekspresi', label: 'Ekspresi'} // Top x-axis.
+            }
+          },
+          bar: { groupWidth: "90%" }
+        };
+
+        var chart = new google.charts.Bar(document.getElementById('column_chart_div'));
+        // Convert the Classic options to Material options.
+        chart.draw(data, google.charts.Bar.convertOptions(options));
+      };
+
+      function drawLineChart() {
+
+        var count = [0,0,0,0,0];
+        
+        for(var i = 0; i < obj.length; i++)
+        {
+          if(obj[i].Age >= 60)
+            count[0] += 1;
+          else if(obj[i].Age >= 50 && obj[i].Age < 60)
+            count[1] += 1;
+          else if(obj[i].Age >= 40 && obj[i].Age < 50)
+            count[2] += 1;
+          else if(obj[i].Age >= 30 && obj[i].Age < 40)
+            count[3] += 1;
+          else if(obj[i].Age < 30)
+            count[4] += 1;
+        }
+
+        var data = google.visualization.arrayToDataTable([
+          ['Criteria', 'Age'],
+          ['< 30',  count[4]],
+          ['> 30',  count[3]],
+          ['> 40',  count[2]],
+          ['> 50',  count[1]],
+          ['> 60',  count[0]],
+        ]);
+
+        var options = {
+          title: 'Age in Criteria',
+          width: 600,
+          height: 400,
+          curveType: 'function',
+        };
+
+        var chart = new google.visualization.LineChart(document.getElementById('curve_chart_div'));
+
+        chart.draw(data, options);
+      }
+    </script>
+      
+    </script>
+  </head>
+  <body>
+    <!--Table and divs that hold the pie charts-->
+    <table class="columns">
+      <tr>
+        <td><div id="column_chart_div" style="border: 1px solid #ccc"></div></td>
+        <td><div id="bar_chart_div" style="border: 1px solid #ccc"></div></td>
+        
+      </tr>
+      <tr>
+        <td><div id="curve_chart_div" style="width: 900px; height: 500px"></div></td>
+        <td><div id="Anthony_chart_div" style="border: 1px solid #ccc"></div></td>
+      </tr>
+    </table>
+  </body>
+</html>
+
