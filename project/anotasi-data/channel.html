@@ -1,0 +1,508 @@
+
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+      <meta name="description" content="Askbootstrap">
+      <meta name="author" content="Askbootstrap">
+      <title>VIDOE - Video Streaming Website HTML Template</title>
+      <!-- Favicon Icon -->
+      <link rel="icon" type="image/png" href="../../img/semut1.png">
+      <!-- Bootstrap core CSS-->
+      <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+      <!-- Custom fonts for this template-->
+      <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+      <!-- Custom styles for this template-->
+      <link href="css/osahan.css" rel="stylesheet">
+      <!-- Owl Carousel -->
+      <link rel="stylesheet" href="vendor/owl-carousel/owl.carousel.css">
+      <link rel="stylesheet" href="vendor/owl-carousel/owl.theme.css">
+   </head>
+   <body id="page-top">
+    <nav class="navbar navbar-expand navbar-light bg-white static-top osahan-nav sticky-top">
+        &nbsp;&nbsp; 
+        <button class="btn btn-link btn-sm text-secondary order-1 order-sm-0" id="sidebarToggle">
+        <i class="fas fa-bars"></i>
+        </button> &nbsp;&nbsp;
+        <a class="navbar-brand mr-1 mb-1" href="index.html">
+           <span class="navbar-title">Myrmidon</span>
+        </a>
+     </nav>
+      <div id="wrapper">
+         <!-- Sidebar -->
+         <ul class="sidebar navbar-nav">
+            <li class="nav-item">
+               <a class="nav-link" href="index.html">
+               <i class="fas fa-fw fa-home"></i>
+               <span>Utama</span>
+               </a>
+            </li>
+            <li class="nav-item">
+               <a class="nav-link" href="list.html">
+               <i class="fas fa-fw fa-list"></i>
+               <span>Musik Video</span>
+               </a>
+            </li>
+            <li class="nav-item">
+               <a class="nav-link" href="category.html">
+               <i class="fas fa-fw fa-list-alt"></i>
+               <span>Kategori</span>
+               </a>
+            </li>
+            <li class="nav-item">
+               <a class="nav-link" href="diagram.html">
+               <i class="fas fa-fw fa-chart-area"></i>
+               <span>Diagram</span>
+               </a>
+            </li>
+            <li class="nav-item">
+               <a class="nav-link" href="../../about.html" target="_blank"></a>
+               <i class="fas fa-fw fa-user-alt"></i>
+               <span>Tentang Kami</span>
+               </a>
+            </li>
+            <li class="nav-item channel-sidebar-list">
+               <h6>ANGGOTA KELOMPOK</h6>
+               <ul>
+                  <li>
+                     <a href="https://AnnaKurniaty.github.io" target="_blank">
+                     <img class="img-fluid" alt="" src="../../img/user/anna.jpg"> Anna
+                     </a>
+                  </li>
+                  <li>
+                     <a href="https://zlarex.github.io" target="_blank">
+                     <img class="img-fluid" alt="" src="../../img/user/ihsan.png"> Ihsan
+                     </a>
+                  </li>
+                  <li>
+                     <a href="https://KhansaRT.github.io" target="_blank">
+                     <img class="img-fluid" alt="" src="../../img/user/khansa.jpeg"> Khansa 
+                     </a>
+                  </li>
+                  <li>
+                     <a href="https://lATHENEvender.github.io" target="_blank">
+                     <img class="img-fluid" alt="" src="../../img/user/nabiilah.jpg">  Nabiilah
+                     </a>
+                  </li>
+                  <li>
+                     <a href="https://RijalAzmi.github.io" target="_blank">
+                     <img class="img-fluid" alt="" src="../../img/user/rijal.jpg">  Rijal
+                     </a>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+         <div class="single-channel-page" id="content-wrapper">
+            <div class="single-channel-nav">
+               <nav class="navbar navbar-expand-lg navbar-light">
+                  <a class="channel-brand text-white" id="datachannel-title"></a>
+                  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                  <span class="navbar-toggler-icon"></span>
+                  </button>
+                  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                     <ul class="navbar-nav mr-auto">
+                        <li id="tab_video" class="nav-item"><a href="#" id="link1" class="nav-link">Video</a>
+                        </li>
+                        <li id="tab_tentang" class="nav-item"><a href="#" id="link2" class="nav-link">Tentang</a></li>
+                     </ul>
+                     <button class="btn btn-outline-danger btn-sm" type="button">Lihat di <strong>YouTube</strong></button>
+                  </div>
+               </nav>
+            </div>
+            <div class="container-fluid">
+               <div class="video-block section-padding">
+                  <div class="row" id="video_area">
+                     <div class="col-md-12">
+                        <div class="main-title">
+                           <h6 class="tab-title"></h6>
+                        </div>
+                     </div>
+                     <div class="col-md-12">
+                         <div id="card-tentang" style="display: none;">
+                             <div class="row">
+                                 <div class="col-md-12">
+                                     <div class="video-card p-3">
+                                        <div class="video-title mb-0">
+                                            <div class="row">
+                                                <div class="col-md-4 p-3">
+                                                    <center>
+                                                        <h6>Jumlah Subscribers</h6>
+                                                        <p class="m-0" id="datacard-subscribers" style="font-size: 30px;"></p> Subscribers
+                                                    </center>
+                                                </div>
+                                                <div class="col-md-4 p-3">
+                                                    <center>
+                                                        <h6>Jumlah Musik Video</h6>
+                                                        <p class="m-0" id="datacard-videos" style="font-size: 30px;"></p> Musik Video
+                                                    </center>
+                                                </div>
+                                                <div class="col-md-4 p-3">
+                                                    <center>
+                                                        <h6>Jumlah Waktu Tayang</h6>
+                                                        <p class="m-0" id="datacard-duration" style="font-size: 30px;"></p> Detik
+                                                    </center>
+                                                </div>
+                                                <div class="col-md-4 p-3">
+                                                    <center>
+                                                        <h6>Jumlah Seluruh Viewers</h6>
+                                                        <p class="m-0" id="datacard-views" style="font-size: 30px;"></p> Viewers
+                                                    </center>
+                                                </div>
+                                                <div class="col-md-4 p-3">
+                                                    <center>
+                                                        <h6>Jumlah Seluruh Likes</h6>
+                                                        <p class="m-0" id="datacard-likes" style="font-size: 30px;"></p> Likes
+                                                    </center>
+                                                </div>
+                                                <div class="col-md-4 p-3">
+                                                    <center>
+                                                        <h6>Jumlah Seluruh Dislikes</h6>
+                                                        <p class="m-0" id="datacard-dislikes" style="font-size: 30px;"></p> Dislikes
+                                                    </center>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                 </div>
+                                 
+                                <div class="col-md-12 col-sm-12 mt-3">
+                                    <div class="video-card">
+                                        <div class="video-card-title p-3">
+                                           <h6 class="text-white">Statistik Viewers</h6>
+                                       </div>
+                                       <div class="video-card-body">
+                                           <canvas id="dViews" height="300px">Browser anda tidak mendukung elemen canvas.</canvas>
+                                       </div>
+                                   </div>
+                                </div>
+                                <div class="col-md-6 col-sm-12 mt-3">
+                                    <div class="video-card">
+                                        <div class="video-card-title p-3">
+                                           <h6 class="text-white">Statistik Likes & Dislikes</h6>
+                                       </div>
+                                       <div class="video-card-body">
+                                           <canvas id="dLikesDislikes" height="300px">Browser anda tidak mendukung elemen canvas.</canvas>
+                                       </div>
+                                   </div>
+                                </div>
+                                <div class="col-md-6 col-sm-12 mt-3">
+                                    <div class="video-card">
+                                        <div class="video-card-title p-3">
+                                           <h6 class="text-white">Statistik Ekspresi</h6>
+                                       </div>
+                                       <div class="video-card-body">
+                                           <canvas id="dExpression" height="300px">Browser anda tidak mendukung elemen canvas.</canvas>
+                                       </div>
+                                   </div>
+                                </div>
+                             </div>
+                         </div>
+                     </div>
+                  </div>
+                  <center>
+                    <input type="button" id="load_more" class="btn btn-outline-secondary btn-sm hidden" value="Load More"/>
+                  </center>
+               </div>
+            </div>
+            <!-- /.container-fluid -->
+            <!-- Sticky Footer -->
+            <footer class="sticky-footer ml-0">
+               <div class="container">
+                  <div class="row no-gutters">
+                     <div class="col-lg-6 col-sm-6">
+                        <p class="mt-1 mb-0">&copy; Copyright 2018 <strong class="text-dark">Vidoe</strong>. All Rights Reserved<br>
+                           <small class="mt-0 mb-0">Made with <i class="fas fa-heart text-danger"></i> by <a class="text-primary" target="_blank" href="https://askbootstrap.com/">Ask Bootstrap</a>
+                           </small>
+                        </p>
+                     </div>
+                  </div>
+               </div>
+            </footer>
+         </div>
+         <!-- /.content-wrapper -->
+      </div>
+      <!-- /#wrapper -->
+      <!-- Scroll to Top Button-->
+      <a class="scroll-to-top rounded" href="#page-top">
+      <i class="fas fa-angle-up"></i>
+      </a>
+      <!-- Bootstrap core JavaScript-->
+      <script src="vendor/jquery/jquery.min.js"></script>
+      <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+      <!-- Core plugin JavaScript-->
+      <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+      <!-- Owl Carousel -->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js" integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+      <!-- Custom scripts for all pages-->
+      <script src="js/custom.js"></script>
+      <script src="js/script.js"></script>
+      <script src="js/chart.js"></script>
+   </body>
+</html>
+<script>
+function printData(data, id)
+{
+    let duration = getProperDuration(data.duration);
+    $(`#${id}`).append(`
+    <div class="col-xl-3 col-sm-6 mb-3 video_data hidden">
+        <div class="video-card">
+            <div class="video-card-image">
+                <a class="play-icon" href="watch.html?id=${data.index}"><i class="fas fa-play-circle"></i></a>
+                <a href="watch.html?id=${data.index}"><img class="img-fluid" src="${data.thumbnail}" alt=""></a>
+                <div class="time">${duration}</div>
+            </div>
+            <div class="video-card-body">
+                <div class="video-title">
+                    <a href="watch.html?id=${data.index}">${data.title}</a>
+                </div>
+                <div class="video-view">
+                    <i class="fas fa-eye"></i> ${data.views.toLocaleString()} views
+                </div>
+            </div>
+        </div>
+    </div>`)
+}
+function makeViewersDiagram(data)
+{
+    let arrLabels = []
+    let arrData = []
+    let arrBackgroundColor = []
+    let arrBorderColor = []
+    let color = getRandomColor()
+    arrBorderColor.push(color.replace(', 0)', ', 1)'))
+    arrBackgroundColor.push(color.replace(', 0)', ', 0.5)'))
+
+    data.forEach(e => {
+        arrLabels.push(e.title)
+        arrData.push(e.views)
+    })
+
+    let dEkspresi = $('#dViews')
+    new Chart(dEkspresi, {
+        type: "bar",
+        data: {
+            labels: arrLabels,
+            datasets: [
+                {
+                    data: arrData,
+                    backgroundColor: arrBackgroundColor,
+                    borderColor: arrBorderColor,
+                    borderWidth: 1
+                }
+            ]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            scales: {
+                y: {
+                    beginAtZero: true
+                },
+                xAxes: {
+                    display: false
+                }
+            },
+            plugins: {
+                legend: {
+                    display: false
+                }
+            }
+        }
+    })
+}
+function makeLikesDislikesDiagram(data)
+{
+    let arrLabels = []
+    let arrData = []
+    let arrBackgroundColor = []
+    let arrBorderColor = []
+    let color = getRandomColor()
+    arrBorderColor.push(color.replace(', 0)', ', 1)'))
+    arrBackgroundColor.push(color.replace(', 0)', ', 0.5)'))
+
+    data.forEach(e => {
+        arrLabels.push(e.title)
+        arrData.push(e.likes)
+    })
+
+    let arrData2 = []
+    let arrBackgroundColor2 = []
+    let arrBorderColor2 = []
+    color = getRandomColor()
+    arrBorderColor2.push(color.replace(', 0)', ', 1)'))
+    arrBackgroundColor2.push(color.replace(', 0)', ', 0.5)'))
+
+    data.forEach(e => {
+        arrData2.push(e.dislikes)
+    })
+
+    let dEkspresi = $('#dLikesDislikes')
+    new Chart(dEkspresi, {
+        type: "line",
+        data: {
+            labels: arrLabels,
+            datasets: [
+                {
+                    label: "Likes",
+                    data: arrData,
+                    backgroundColor: arrBackgroundColor,
+                    borderColor: arrBorderColor,
+                    borderWidth: 1,
+                    fill: true
+                },
+                {
+                    label: "Dislikes",
+                    data: arrData2,
+                    backgroundColor: arrBackgroundColor2,
+                    borderColor: arrBorderColor2,
+                    borderWidth: 1,
+                    fill: true
+                }
+            ]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            scales: {
+                y: {
+                    beginAtZero: true
+                },
+                xAxes: {
+                    display: false
+                }
+            },
+            plugins: {
+                legend: {
+                    display: true
+                }
+            }
+        }
+    })
+}
+function makeExpressionDiagram(data)
+{
+    let save = []
+
+    let arrBackgroundColor = []
+    let arrBorderColor = []
+
+    data.forEach(e => {
+        e['anotasi'].forEach(a => {
+            let find = save.find(f => f.value == a.value)
+            if (!find)
+            {
+                save.push({
+                    value: a.value,
+                    count: 1
+                })
+            }
+            else find.count++;
+        })
+    })
+
+    let arrLabels = []
+    let arrData = []
+    save.forEach(s => {
+        let color = getRandomColor()
+        arrBorderColor.push(color.replace(', 0)', ', 1)'))
+        arrBackgroundColor.push(color.replace(', 0)', ', 0.5)'))
+        arrLabels.push(s.value)
+        arrData.push(s.count)
+    })
+
+    let dEkspresi = $('#dExpression')
+    new Chart(dEkspresi, {
+        type: "pie",
+        data: {
+            labels: arrLabels,
+            datasets: [
+                {
+                    data: arrData,
+                    backgroundColor: arrBackgroundColor,
+                    borderColor: arrBorderColor,
+                    borderWidth: 1
+                }
+            ]
+        },
+        options: {
+            aspectRatio: 2
+        }
+    })
+}
+$(document).ready(async () => {
+    const data = await loadJSON('data.json')
+    const channel = getParameterByName('name').replace('%20', ' ');
+    const tab = getParameterByName('tab')
+
+    if (tab.toLowerCase() != "video" && tab.toLowerCase() != "tentang") window.location.replace("index.html")
+    $('.tab-title').text(tab == "video"? "Daftar Musik Video" : "")
+    $('#datachannel-title').text(channel)
+    
+    if (tab.toLowerCase() == "video")
+    {
+        const promise = data.map(d => {
+            if (d.channel == channel)
+            printData(d, 'video_area')
+        })
+        await Promise.all(promise)
+
+        $('#card-tentang').hide()
+        $('#tab_video').addClass('active')
+        $('#tab_tentang').removeClass('active')
+        $('#link1').attr('href', 'javascript:void(0)')
+        $('#link2').attr('href', `channel.html?name=${channel}&tab=tentang`)
+        if (data.length > 8) $('#load_more').removeClass('hidden')
+    
+        function loadMore()
+        {
+            $('#video_area .hidden').slice(0, 8).removeClass('hidden')
+            if ($('#video_area .hidden').slice(0, 8).length == 0) $('#load_more').addClass('hidden')
+        }
+
+        loadMore()
+        $('#load_more').on('click', loadMore)
+    }
+    else if (tab.toLowerCase() == "tentang")
+    {
+        let items = []
+        const promise = data.map(d => {
+            if (d.channel == channel) items.push(d)
+        })
+        await Promise.all(promise)    
+        $('#card-tentang').show()
+        $('#tab_tentang').addClass('active')
+        $('#tab_video').removeClass('active')
+        $('#link1').attr('href', `channel.html?name=${channel}&tab=video`)
+        $('#link2').attr('href', 'javascript:void(0)')
+        
+        let totalSubscribers = getAbbreviateNumber(items[0].subscribers)
+        let totalViews = 0
+        let totalDuration = 0
+        let totalVideos = items.length
+        let totalLikes = 0
+        let totalDislikes = 0
+
+        items.forEach(i => {
+            totalViews += i.views
+            totalDislikes += i.dislikes
+            totalLikes += i.likes
+            totalDuration += i.duration
+        })
+
+        $('#datacard-subscribers').append(getAbbreviateNumber(items[0].subscribers))
+        $('#datacard-views').append(totalViews.toLocaleString())
+        $('#datacard-duration').append(totalDuration.toLocaleString())
+        $('#datacard-likes').append(totalLikes.toLocaleString())
+        $('#datacard-dislikes').append(totalDislikes.toLocaleString())
+        $('#datacard-videos').append(totalVideos)
+        
+        // items = items.sort(function (a, b) { return b.views - a.views })
+        makeViewersDiagram(items)
+        makeLikesDislikesDiagram(items)
+        makeExpressionDiagram(items)
+    }
+    else window.location.replace("index.html")
+})
+</script>

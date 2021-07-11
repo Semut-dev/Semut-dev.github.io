@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+      <meta name="description" content="Askbootstrap">
+      <meta name="author" content="Askbootstrap">
+      <title>Myrmidon - Anotasi Data Musik Video K-POP</title>
+      <!-- Favicon Icon -->
+      <link rel="icon" type="image/png" href="../../img/semut1.png">
+      <!-- Bootstrap core CSS-->
+      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    
+      <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+      <!-- Custom fonts for this template-->
+      <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+      <!-- Owl Carousel -->
+      <link rel="stylesheet" href="vendor/owl-carousel/owl.carousel.css">
+      <link rel="stylesheet" href="vendor/owl-carousel/owl.theme.css">
+      <!-- Custom styles for this template-->
+      <link href="css/osahan.css" rel="stylesheet">
+   </head>
+   <body id="page-top">
+      <nav class="navbar navbar-expand navbar-light bg-white static-top osahan-nav sticky-top">
+         &nbsp;&nbsp; 
+         <button class="btn btn-link btn-sm text-secondary order-1 order-sm-0" id="sidebarToggle">
+         <i class="fas fa-bars"></i>
+         </button> &nbsp;&nbsp;
+         <a class="navbar-brand mr-1 mb-1" href="index.html">
+            <span class="navbar-title">Myrmidon</span>
+         </a>
+      </nav>
+      <div id="wrapper">
+         <!-- Sidebar -->
+         <ul class="sidebar navbar-nav">
+            <li class="nav-item">
+               <a class="nav-link" href="index.html">
+               <i class="fas fa-fw fa-home"></i>
+               <span>Utama</span>
+               </a>
+            </li>
+            <li class="nav-item">
+               <a class="nav-link" href="list.html">
+               <i class="fas fa-fw fa-list"></i>
+               <span>Musik Video</span>
+               </a>
+            </li>
+            <li class="nav-item">
+               <a class="nav-link" href="category.html">
+               <i class="fas fa-fw fa-list-alt"></i>
+               <span>Kategori</span>
+               </a>
+            </li>
+            <li class="nav-item">
+               <a class="nav-link" href="diagram.html">
+               <i class="fas fa-fw fa-chart-area"></i>
+               <span>Diagram</span>
+               </a>
+            </li>
+            <li class="nav-item">
+               <a class="nav-link" href="../../about.html" target="_blank">
+               <i class="fas fa-fw fa-user-alt"></i>
+               <span>Tentang Kami</span>
+               </a>
+            </li>
+            <li class="nav-item channel-sidebar-list">
+               <h6>ANGGOTA KELOMPOK</h6>
+               <ul>
+                  <li>
+                     <a href="https://AnnaKurniaty.github.io" target="_blank">
+                     <img class="img-fluid" alt="" src="../../img/user/anna.jpg"> Anna
+                     </a>
+                  </li>
+                  <li>
+                     <a href="https://zlarex.github.io" target="_blank">
+                     <img class="img-fluid" alt="" src="../../img/user/ihsan.png"> Ihsan
+                     </a>
+                  </li>
+                  <li>
+                     <a href="https://KhansaRT.github.io" target="_blank">
+                     <img class="img-fluid" alt="" src="../../img/user/khansa.jpeg"> Khansa 
+                     </a>
+                  </li>
+                  <li>
+                     <a href="https://lATHENEvender.github.io" target="_blank">
+                     <img class="img-fluid" alt="" src="../../img/user/nabiilah.jpg">  Nabiilah
+                     </a>
+                  </li>
+                  <li>
+                     <a href="https://RijalAzmi.github.io" target="_blank">
+                     <img class="img-fluid" alt="" src="../../img/user/rijal.jpg">  Rijal
+                     </a>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+         <div id="content-wrapper">
+            <div class="container-fluid pb-0">
+               <div class="video-block section-padding">
+                  <div class="row">
+                     <div class="col-md-8">
+                        <div class="col-md-12">
+                           <div class="single-video-left">
+                              <div class="single-video-wrapper">
+                                 <div class="single-video-content">
+                                     <div class="ratio ratio-16x9">
+                                         <iframe class="radiuses" title="YouTube video" allowfullscreen></iframe>
+                                     </div>
+                                 </div>
+                             </div>
+                              <div class="single-video-title box mb-3">
+                                 <div class="text-primary pb-1 hidden" id="datavideo-trending"></div>
+                                 <h2 id="datavideo-title"></h2>
+                                 <p class="mb-2" id="datavideo-views"></p>
+                                 <p class="tags mt-1 mb-0" id="datavideo-expression">
+                              </div>
+                              <div class="single-video-author box mb-3">
+                                 <div class="float-right"><a href="" target="_blank" id="datavideo-youtubeChannel" class="btn btn-danger" type="button">Lihat di <strong>YouTube</strong></a></div>
+                                 <p id="datavideo-channel"></p>
+                                 <small id="datavideo-subscribers"></small>
+                                 </p>
+                              </div>
+                              <div class="single-video-info-content box mb-3">
+                                 <h6>Daftar Ekspresi</h6>
+                                 <div class="row" id="datavideo-imgExpression">
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="col-md-12 mb-3">
+                           <center>
+                              <a href="index.html" class="btn btn-outline-secondary btn-sm btn-block">Menu Utama</a>
+                           </center>
+                        </div>
+                     </div>
+                     <div class="col-md-4">
+                        <div class="single-video-right">
+                           <div class="row">
+                              <div class="col-md-12">
+                                 <div class="main-title">
+                                    <h6>Selanjutnya</h6>
+                                 </div>
+                              </div>
+                              <div class="col-md-12" id="video_area">
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <!-- /.container-fluid -->
+            <!-- Sticky Footer -->
+            <footer class="sticky-footer">
+               <div class="container">
+                  <div class="row no-gutters">
+                     <div class="col-lg-6 col-sm-6">
+                        <p class="mt-1 mb-0">&copy; Copyright 2018 <strong class="text-dark">Vidoe</strong>. All Rights Reserved<br>
+                           <small class="mt-0 mb-0">Made with <i class="fas fa-heart text-danger"></i> by <a class="text-primary" target="_blank" href="https://askbootstrap.com/">Ask Bootstrap</a>
+                           </small>
+                        </p>
+                     </div>
+                  </div>
+               </div>
+            </footer>
+         </div>
+         <!-- /.content-wrapper -->
+      </div>
+      <!-- /#wrapper -->
+      <!-- Scroll to Top Button-->
+      <a class="scroll-to-top rounded" href="#page-top">
+      <i class="fas fa-angle-up"></i>
+      </a>
+      <div class="modal fade bd-example-modal-lg" id="imagemodal" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-lg">
+         <div class="modal-content">
+            <div class="modal-header">
+               <h6 class="modal-title" style="color: white;" id="exampleModalLongTitle">Title</h6>
+               <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
+               </button>
+            </div>
+            <div class="modal-body">
+               <img class="img-fluid modal-img">
+            </div>
+         </div>
+      </div>
+      </div>
+      <!-- Bootstrap core JavaScript-->
+      <script src="vendor/jquery/jquery.min.js"></script>
+      <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+      <!-- Core plugin JavaScript-->
+      <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+      <!-- Owl Carousel -->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js" integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+      <!-- Custom scripts for all pages-->
+      <script src="js/custom.js"></script>
+      <script src="js/script.js"></script>
+   </body>
+</html>
+<script>
+function printSelanjutnya(data, id) {
+   for (let i = 0; i < 10; i++)
+   {
+      id++;
+      if (id >= 100) id = 0
+      let datax = data[id]
+      $('#video_area').append(' \
+      <div class="video-card video-card-list"> \
+         <div class="video-card-image"> \
+            <a class="play-icon" href="watch.html?id='+ datax.index +'"><i class="fas fa-play-circle"></i></a> \
+            <a href="watch.html?id='+ datax.index +'"><img class="img-fluid" src="'+ datax.thumbnail +'" alt=""></a> \
+            <div class="time">'+ getProperDuration(datax.duration) +'</div> \
+         </div> \
+         <div class="video-card-body"> \
+            <div class="video-title"> \
+               <a href="watch.html?id='+ datax.index +'">'+ datax.title +'</a> \
+            </div> \
+            <div class="video-page"> \
+               <a href="channel.html?name='+ datax.channel +'&tab=video" class="text-success">'+ datax.channel +'</a> \
+            </div> \
+            <div class="video-view"><i class="fas fa-fw fa-eye"></i> '+ datax.views.toLocaleString() +' views</div> \
+         </div> \
+      </div>')
+   }
+}
+$(document).ready(async () => {
+   const data = await loadJSON('data.json')
+   let id = getParameterByName('id')
+   if (id > data.length - 1 || id <= 0) window.location.replace('index.html')
+
+   let datax = data[--id]
+   printSelanjutnya(data, id)
+
+   let url = 'https://youtube.com/embed/' + datax.url.split('=')[1] + '?rel=0&autoplay=0'
+   let expression = fetchExpression(datax, true)
+   let expression2 = fetchExpression(datax, false)
+   if (datax.trending.rank > 0) $('#datavideo-trending').text(`#${datax.trending.rank} ON ${datax.trending.category}`).removeClass('hidden')
+   $('#datavideo-title').text(datax.title)
+   $('#datavideo-views').html(`<i class="fas fa-eye"></i> ${datax.views.toLocaleString()} views &ensp; <i class="fas fa-thumbs-up"></i> ${getAbbreviateNumber(datax.likes)} likes &ensp; <i class="fas fa-thumbs-down"></i> ${getAbbreviateNumber(datax.dislikes)} dislikes`)
+   $('#datavideo-channel').html(`<a href="channel.html?name=${datax.channel}&tab=video" class="text-success"><strong>${datax.channel}</strong></a>`)
+   $('#datavideo-subscribers').text(`${getAbbreviateNumber(datax.subscribers)} subscribers`)
+   $('.radiuses').attr('src', url)
+   $('a#datavideo-youtubeChannel').attr('href', `https://www.youtube.com/c/${datax.channel}`)
+   
+   expression.forEach(e => {
+      $('#datavideo-expression').append(`<span><a href="javascript:void(0)">${e.value}</a></span> `)
+   })
+   expression2.forEach(e => {
+      $('#datavideo-imgExpression').append(' \
+      <div class="col-md-3 mb-2"> \
+         <div class="view"> \
+            <a class="popImg"> \
+            <img src="'+ e.url +'" class="img-fluid" data-value="'+ e.value +'"> \
+            <div class="mask flex-center"> \
+               <p class="white-text">'+ e.value +'</p> \
+            </div> \
+            </a> \
+        </div> \
+      </div>')
+   })
+   
+   $('.popImg').on('click', function() {
+      $('.modal-img').attr('src', $(this).find('img').attr('src'))
+      $('.modal-title').text(`Ekspresi ${$(this).find('img').attr('data-value')}`)
+      $('#imagemodal').modal('show');   
+   });
+
+})
+</script>

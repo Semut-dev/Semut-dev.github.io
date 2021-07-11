@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+      <meta name="description" content="Askbootstrap">
+      <meta name="author" content="Askbootstrap">
+      <title>Myrmidon - Anotasi Data Musik Video K-POP</title>
+      <!-- Favicon Icon -->
+      <link rel="icon" type="image/png" href="../../img/semut1.png">
+      <!-- Bootstrap core CSS-->
+      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    
+      <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+      <!-- Custom fonts for this template-->
+      <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+      <!-- Owl Carousel -->
+      <link rel="stylesheet" href="vendor/owl-carousel/owl.carousel.css">
+      <link rel="stylesheet" href="vendor/owl-carousel/owl.theme.css">
+      <!-- Custom styles for this template-->
+      <link href="css/osahan.css" rel="stylesheet">
+   </head>
+   <body id="page-top">
+      <nav class="navbar navbar-expand navbar-light bg-white static-top osahan-nav sticky-top">
+         &nbsp;&nbsp; 
+         <button class="btn btn-link btn-sm text-secondary order-1 order-sm-0" id="sidebarToggle">
+         <i class="fas fa-bars"></i>
+         </button> &nbsp;&nbsp;
+         <a class="navbar-brand mr-1 mb-1" href="index.html">
+            <span class="navbar-title">Myrmidon</span>
+         </a>
+      </nav>
+      <div id="wrapper">
+         <!-- Sidebar -->
+         <ul class="sidebar navbar-nav">
+            <li class="nav-item">
+               <a class="nav-link" href="index.html">
+               <i class="fas fa-fw fa-home"></i>
+               <span>Utama</span>
+               </a>
+            </li>
+            <li class="nav-item">
+               <a class="nav-link" href="list.html">
+               <i class="fas fa-fw fa-list"></i>
+               <span>Musik Video</span>
+               </a>
+            </li>
+            <li class="nav-item">
+               <a class="nav-link" href="category.html">
+               <i class="fas fa-fw fa-list-alt"></i>
+               <span>Kategori</span>
+               </a>
+            </li>
+            <li class="nav-item active">
+               <a class="nav-link" href="diagram.html">
+               <i class="fas fa-fw fa-chart-area"></i>
+               <span>Diagram</span>
+               </a>
+            </li>
+            <li class="nav-item">
+               <a class="nav-link" href="../../about.html" target="_blank">
+               <i class="fas fa-fw fa-user-alt"></i>
+               <span>Tentang Kami</span>
+               </a>
+            </li>
+            <li class="nav-item channel-sidebar-list">
+               <h6>ANGGOTA KELOMPOK</h6>
+               <ul>
+                  <li>
+                     <a href="https://AnnaKurniaty.github.io" target="_blank">
+                     <img class="img-fluid" alt="" src="../../img/user/anna.jpg"> Anna
+                     </a>
+                  </li>
+                  <li>
+                     <a href="https://zlarex.github.io" target="_blank">
+                     <img class="img-fluid" alt="" src="../../img/user/ihsan.png"> Ihsan
+                     </a>
+                  </li>
+                  <li>
+                     <a href="https://KhansaRT.github.io" target="_blank">
+                     <img class="img-fluid" alt="" src="../../img/user/khansa.jpeg"> Khansa 
+                     </a>
+                  </li>
+                  <li>
+                     <a href="https://lATHENEvender.github.io" target="_blank">
+                     <img class="img-fluid" alt="" src="../../img/user/nabiilah.jpg">  Nabiilah
+                     </a>
+                  </li>
+                  <li>
+                     <a href="https://RijalAzmi.github.io" target="_blank">
+                     <img class="img-fluid" alt="" src="../../img/user/rijal.jpg">  Rijal
+                     </a>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+         <div id="content-wrapper">
+            <div class="container-fluid pb-0">
+               <div class="video-block section-padding">
+                  <div class="row">
+                     <div class="col-md-12 col-sm-12">
+                        <div class="video-card mb-3">
+                            <div class="video-card-title p-3">
+                                <h6 class="text-white">Statistik Semua Ekspresi</h6>
+                            </div>
+                            <div class="video-card-body">
+                                <canvas id="dEkspresi" height="300px">Browser anda tidak mendukung elemen canvas.</canvas>
+                            </div>
+                        </div>
+                     </div>
+                     <div class="col-md-6 col-sm-12">
+                        <div class="video-card mb-3">
+                            <div class="video-card-title p-3">
+                                <h6 class="text-white">Banyaknya Musik Video pada Channel</h6>
+                            </div>
+                            <div class="video-card-body">
+                                <canvas id="dChannel" height="300px">Browser anda tidak mendukung elemen canvas.</canvas>
+                            </div>
+                        </div>
+                     </div>
+                     <div class="col-md-6 col-sm-12">
+                        <div class="video-card mb-3">
+                            <div class="video-card-title p-3">
+                                <h6 class="text-white">Perbandingan Durasi Terlama dan Tersingkat</h6>
+                            </div>
+                            <div class="video-card-body">
+                                <canvas id="dDuration" height="300px">Browser anda tidak mendukung elemen canvas.</canvas>
+                            </div>
+                        </div>
+                     </div>
+                     <div class="col-md-12 col-sm-12">
+                        <div class="video-card mb-3">
+                            <div class="video-card-title p-3">
+                                <h6 class="text-white">Statistik Likes, Dislikes, dan Views</h6>
+                                <center>
+                                    <button id="1" class="btn btn-small btn-outline-secondary">Likes</button>
+                                    <button id="2" class="btn btn-small btn-outline-secondary">Disikes</button>
+                                    <button id="3" class="btn btn-small btn-outline-secondary">Views</button>
+                                </center>
+                            </div>
+                            <div class="video-card-body">
+                                <canvas id="dLDLV" height="300px">Browser anda tidak mendukung elemen canvas.</canvas>
+                            </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <!-- /.container-fluid -->
+            <!-- Sticky Footer -->
+            <footer class="sticky-footer mt-5">
+               <div class="container">
+                  <div class="row no-gutters">
+                     <div class="col-lg-6 col-sm-6">
+                        <p class="mt-1 mb-0">&copy; Copyright 2018 <strong class="text-dark">Vidoe</strong>. All Rights Reserved<br>
+                           <small class="mt-0 mb-0">Made with <i class="fas fa-heart text-danger"></i> by <a class="text-primary" target="_blank" href="https://askbootstrap.com/">Ask Bootstrap</a>
+                           </small>
+                        </p>
+                     </div>
+                  </div>
+               </div>
+            </footer>
+         </div>
+         <!-- /.content-wrapper -->
+      </div>
+      <!-- /#wrapper -->
+      <!-- Scroll to Top Button-->
+      <a class="scroll-to-top rounded" href="#page-top">
+      <i class="fas fa-angle-up"></i>
+      </a>
+      <!-- Bootstrap core JavaScript-->
+      <script src="vendor/jquery/jquery.min.js"></script>
+      <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+      <!-- Core plugin JavaScript-->
+      <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+      <!-- Owl Carousel -->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js" integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+      <!-- Custom scripts for all pages-->
+      <script src="js/custom.js"></script>
+      <script src="js/script.js"></script>
+      <script src="js/chart.js"></script>
+   </body>
+</html>
+<script>
+
+function ekspresiToDataDiagram(data)
+{
+    let items = []
+    data.forEach(d => {
+        d['anotasi'].forEach(a => {
+            let item = items.find(e => e.value == a.value)
+            if (!item)
+            {
+                items.push({
+                    value: a.value,
+                    count: 1
+                })
+            }
+            else item.count++
+        })
+    })
+    return items
+}
+function channelToDataDiagram(data)
+{
+    let items = []
+    data.forEach(d => {
+        let item = items.find(e => e.channel == d.channel)
+        if (!item)
+        {
+            items.push({
+                channel: d.channel,
+                count: 1
+            })
+        }
+        else item.count++;
+    })
+    return items;
+}
+function makeDiagramEkspresi(data)
+{
+    let arrLabels = []
+    let arrData = []
+    let arrBackgroundColor = []
+    let arrBorderColor = []
+
+    data.forEach(e => {
+        arrLabels.push(e.value)
+        arrData.push(e.count)
+        let color = getRandomColor()
+        arrBorderColor.push(color.replace(', 0)', ', 1)'))
+        arrBackgroundColor.push(color.replace(', 0)', ', 0.5)'))
+    })
+
+
+    let dEkspresi = $('#dEkspresi')
+    new Chart(dEkspresi, {
+        type: "bar",
+        data: {
+            labels: arrLabels,
+            datasets: [
+                {
+                    data: arrData,
+                    backgroundColor: arrBackgroundColor,
+                    borderColor: arrBorderColor,
+                    borderWidth: 1
+                }
+            ]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            scales: {
+                y: {
+                    beginAtZero: true
+                }
+            },
+            plugins: {
+                legend: {
+                    display: false
+                }
+            }
+        }
+    })
+}
+function makeDiagramChannel(data)
+{
+    let arrLabels = []
+    let arrData = []
+    let arrBackgroundColor = []
+    let arrBorderColor = []
+
+    data.forEach(d => {
+        arrLabels.push(d.channel)
+        arrData.push(d.count)
+        let color = getRandomColor()
+        arrBorderColor.push(color.replace(', 0)', ', 1)'))
+        arrBackgroundColor.push(color.replace(', 0)', ', 0.5)'))
+    })
+    let dChannel = $('#dChannel')
+    new Chart(dChannel, {
+        type: "pie",
+        data: {
+            labels: arrLabels,
+            datasets: [
+                {
+                    data: arrData,
+                    backgroundColor: arrBackgroundColor,
+                    borderColor: arrBorderColor,
+                    borderWidth: 1
+                }
+            ]
+        },
+        options: {
+            aspectRatio: 0
+        }
+    })
+}
+function makeDiagramDurasi(data)
+{
+    let dataDuration = data.sort((a,b) => { return a.duration - b.duration })
+
+    let min = 0
+    let max = dataDuration.length - 1
+
+    let arrLabels = [dataDuration[max].title, dataDuration[min].title]
+    let arrData = [dataDuration[max].duration, dataDuration[min].duration]
+    let arrBackgroundColor = []
+    let arrBorderColor = []
+
+    for (let i = 0; i < 2; i++)
+    {
+        let color = getRandomColor()
+        arrBorderColor.push(color.replace(', 0)', ', 1)'))
+        arrBackgroundColor.push(color.replace(', 0)', ', 0.5)'))
+    }
+
+    let dDuration = $('#dDuration')
+    new Chart(dDuration, {
+        type: "doughnut",
+        data: {
+            labels: arrLabels,
+            datasets: [
+                {
+                    data: arrData,
+                    backgroundColor: arrBackgroundColor,
+                    borderColor: arrBorderColor,
+                    borderWidth: 1
+                }
+            ]
+        },
+        options: {
+            aspectRatio: 0
+        }
+    })
+}
+let chart
+function makeDiagramLDLV(data, id = 1)
+{
+    let arrLabels = []
+    let arrData = []
+    
+    data.forEach(d => {
+        arrLabels.push(d.title)
+        arrData.push(id == 1? d.likes : id == 2? d.dislikes : d.views)
+    })
+
+    let arrBorderColor = []
+    let arrBackgroundColor = []
+    let color = getRandomColor()
+    arrBorderColor.push(color.replace(', 0)', ', 1)'))
+    arrBackgroundColor.push(color.replace(', 0)', ', 0.5)'))
+
+    let dLDLV = $('#dLDLV')
+    chart = new Chart(dLDLV, {
+        type: "line",
+        data: {
+            labels: arrLabels,
+            datasets: [
+                {
+                    label: id == 1? "Likes" : id == 2? "Dislikes" : "Viewers",
+                    data: arrData,
+                    backgroundColor: [arrBackgroundColor[0]],
+                    borderColor: [arrBorderColor[0]],
+                    borderWidth: 1,
+                    fill: true
+                },
+            ]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            scales: {
+                y: {
+                    beginAtZero: true
+                },
+                xAxes: {
+                    display: false
+                }
+            },
+            plugins: {
+                legend: {
+                    display: true
+                }
+            }
+        }
+    })
+}
+$(document).ready(async () => {
+    const data = await loadJSON('data.json')
+    const dEkspresi = ekspresiToDataDiagram(data)
+    const dChannel = channelToDataDiagram(data)
+    await Promise.all(dEkspresi)
+
+    makeDiagramEkspresi(dEkspresi)
+    makeDiagramChannel(dChannel)
+    makeDiagramDurasi(data)
+    makeDiagramLDLV(data)
+
+    $('#1').click(async () => {
+        chart.destroy()
+        makeDiagramLDLV(data, 1)
+    })
+    $('#2').click(async () => {
+        chart.destroy()
+        makeDiagramLDLV(data, 2)
+    })
+    $('#3').click(async () => {
+        chart.destroy()
+        makeDiagramLDLV(data, 3)
+    })
+})
+</script>
