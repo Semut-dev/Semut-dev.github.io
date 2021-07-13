@@ -107,7 +107,7 @@
                         </li>
                         <li id="tab_tentang" class="nav-item"><a href="#" id="link2" class="nav-link">Tentang</a></li>
                      </ul>
-                     <button class="btn btn-outline-danger btn-sm" type="button">Lihat di <strong>YouTube</strong></button>
+                     <a id="watchOnYT" class="btn btn-outline-danger btn-sm" href="" target="_blank">Lihat di <strong>YouTube</strong></a>
                   </div>
                </nav>
             </div>
@@ -435,6 +435,8 @@ $(document).ready(async () => {
     const data = await loadJSON('data.json')
     const channel = getParameterByName('name').replace('%20', ' ');
     const tab = getParameterByName('tab')
+
+    $('#watchOnYT').attr('href', 'https://www.youtube.com/c/' + channel)
 
     if (tab.toLowerCase() != "video" && tab.toLowerCase() != "tentang") window.location.replace("index.html")
     $('.tab-title').text(tab == "video"? "Daftar Musik Video" : "")
